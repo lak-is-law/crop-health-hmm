@@ -6,3 +6,4 @@
 - 2025-01-09 16:21: feat(model): transition probability matrix calibration
 - 2025-01-09 18:01: test(hmm): verify emission probability distribution bounds
 - 2025-01-09 19:17: test(hmm): verify emission probability distribution bounds
+- 2025-01-09 21:38: feat(export): daily crop vigor health report generator
