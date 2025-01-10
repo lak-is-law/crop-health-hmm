@@ -15,3 +15,4 @@
 - 2025-01-10 18:39: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-01-10 19:17: feat(api): endpoint returning 7-day predicted stress transition
 - 2025-01-10 21:41: feat(export): daily crop vigor health report generator
+- 2025-01-10 22:24: refactor(dashboard): real-time state transition visualization
