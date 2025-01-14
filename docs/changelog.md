@@ -21,3 +21,4 @@
 - 2025-01-14 14:34: docs(math): document Baum-Welch parameter estimation routine
 - 2025-01-14 15:44: feat(model): transition probability matrix calibration
 - 2025-01-14 16:31: docs(math): document Baum-Welch parameter estimation routine
+- 2025-01-14 17:48: docs(math): document Baum-Welch parameter estimation routine
