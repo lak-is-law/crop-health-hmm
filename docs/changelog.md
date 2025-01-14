@@ -19,3 +19,4 @@
 - 2025-01-14 10:31: test(hmm): verify emission probability distribution bounds
 - 2025-01-14 12:20: feat(model): transition probability matrix calibration
 - 2025-01-14 14:34: docs(math): document Baum-Welch parameter estimation routine
+- 2025-01-14 15:44: feat(model): transition probability matrix calibration
