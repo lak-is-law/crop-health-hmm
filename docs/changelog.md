@@ -28,3 +28,4 @@
 - 2025-01-16 15:31: perf(telemetry): stream sensor measurements to SQLite buffer
 - 2025-01-16 16:36: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2025-01-16 17:26: fix(pipeline): handle missing soil moisture sensor telemetry
+- 2025-01-16 19:07: docs(math): document Baum-Welch parameter estimation routine
