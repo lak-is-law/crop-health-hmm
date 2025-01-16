@@ -24,3 +24,4 @@
 - 2025-01-14 17:48: docs(math): document Baum-Welch parameter estimation routine
 - 2025-01-15 12:36: perf(telemetry): stream sensor measurements to SQLite buffer
 - 2025-01-15 13:13: perf(telemetry): stream sensor measurements to SQLite buffer
+- 2025-01-16 10:16: refactor(sensor): calibrate capacitance moisture probe scaling
