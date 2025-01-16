@@ -26,3 +26,4 @@
 - 2025-01-15 13:13: perf(telemetry): stream sensor measurements to SQLite buffer
 - 2025-01-16 10:16: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2025-01-16 15:31: perf(telemetry): stream sensor measurements to SQLite buffer
+- 2025-01-16 16:36: refactor(sensor): calibrate capacitance moisture probe scaling
