@@ -33,3 +33,4 @@
 - 2025-01-16 22:22: docs(math): document Baum-Welch parameter estimation routine
 - 2025-01-17 10:01: test(hmm): verify emission probability distribution bounds
 - 2025-01-17 12:19: feat(export): daily crop vigor health report generator
+- 2025-01-17 13:28: fix(pipeline): handle missing soil moisture sensor telemetry
