@@ -35,3 +35,4 @@
 - 2025-01-17 12:19: feat(export): daily crop vigor health report generator
 - 2025-01-17 13:28: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-01-17 14:22: feat(viterbi): decode most probable latent crop health state
+- 2025-01-17 19:34: refactor(dashboard): real-time state transition visualization
