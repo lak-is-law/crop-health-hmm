@@ -34,3 +34,4 @@
 - 2025-01-17 10:01: test(hmm): verify emission probability distribution bounds
 - 2025-01-17 12:19: feat(export): daily crop vigor health report generator
 - 2025-01-17 13:28: fix(pipeline): handle missing soil moisture sensor telemetry
+- 2025-01-17 14:22: feat(viterbi): decode most probable latent crop health state
