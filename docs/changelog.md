@@ -31,3 +31,4 @@
 - 2025-01-16 19:07: docs(math): document Baum-Welch parameter estimation routine
 - 2025-01-16 21:40: feat(export): daily crop vigor health report generator
 - 2025-01-16 22:22: docs(math): document Baum-Welch parameter estimation routine
+- 2025-01-17 10:01: test(hmm): verify emission probability distribution bounds
