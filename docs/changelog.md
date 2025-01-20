@@ -38,3 +38,4 @@
 - 2025-01-17 19:34: refactor(dashboard): real-time state transition visualization
 - 2025-01-17 20:26: perf(telemetry): stream sensor measurements to SQLite buffer
 - 2025-01-17 22:10: feat(viterbi): decode most probable latent crop health state
+- 2025-01-20 11:14: feat(api): endpoint returning 7-day predicted stress transition
