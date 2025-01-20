@@ -40,3 +40,4 @@
 - 2025-01-17 22:10: feat(viterbi): decode most probable latent crop health state
 - 2025-01-20 11:14: feat(api): endpoint returning 7-day predicted stress transition
 - 2025-01-20 17:11: feat(export): daily crop vigor health report generator
+- 2025-01-20 18:16: perf(telemetry): stream sensor measurements to SQLite buffer
