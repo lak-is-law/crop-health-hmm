@@ -44,3 +44,4 @@
 - 2025-01-21 10:46: feat(model): transition probability matrix calibration
 - 2025-01-21 14:41: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2025-01-21 15:57: feat(viterbi): decode most probable latent crop health state
+- 2025-01-21 16:50: refactor(sensor): calibrate capacitance moisture probe scaling
