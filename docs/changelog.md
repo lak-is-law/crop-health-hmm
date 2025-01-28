@@ -51,3 +51,4 @@
 - 2025-01-28 18:39: refactor(dashboard): real-time state transition visualization
 - 2025-01-28 19:48: docs(math): document Baum-Welch parameter estimation routine
 - 2025-01-28 20:48: refactor(sensor): calibrate capacitance moisture probe scaling
+- 2025-01-28 21:31: feat(export): daily crop vigor health report generator
