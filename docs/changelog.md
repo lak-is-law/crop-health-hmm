@@ -50,3 +50,4 @@
 - 2025-01-21 22:20: feat(api): endpoint returning 7-day predicted stress transition
 - 2025-01-22 10:20: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-01-22 15:47: refactor(dashboard): real-time state transition visualization
+- 2025-01-28 10:36: perf(telemetry): stream sensor measurements to SQLite buffer
