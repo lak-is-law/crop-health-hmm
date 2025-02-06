@@ -56,3 +56,4 @@
 - 2025-02-06 11:25: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2025-02-06 12:27: perf(db): SQLite WAL mode and prepared statement pooling
 - 2025-02-06 14:28: fix(pipeline): handle missing soil moisture sensor telemetry
+- 2025-02-06 15:17: refactor(dashboard): real-time state transition visualization
