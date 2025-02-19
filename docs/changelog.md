@@ -57,3 +57,4 @@
 - 2025-02-06 22:14: test(hmm): verify emission probability distribution bounds
 - 2025-02-08 14:54: perf(db): SQLite WAL mode and prepared statement pooling
 - 2025-02-08 19:15: test(hmm): verify emission probability distribution bounds
+- 2025-02-19 10:33: feat(viterbi): decode most probable latent crop health state
