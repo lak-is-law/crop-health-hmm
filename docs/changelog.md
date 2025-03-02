@@ -52,3 +52,4 @@
 - 2025-02-19 20:16: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-02-19 21:52: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-03-02 10:08: fix(pipeline): handle missing soil moisture sensor telemetry
+- 2025-03-02 12:53: test(hmm): verify emission probability distribution bounds
