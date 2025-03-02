@@ -53,3 +53,4 @@
 - 2025-02-19 21:52: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-03-02 10:08: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-03-02 12:53: test(hmm): verify emission probability distribution bounds
+- 2025-03-02 13:35: feat(export): daily crop vigor health report generator
