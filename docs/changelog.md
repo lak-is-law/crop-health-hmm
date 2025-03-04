@@ -50,3 +50,4 @@
 - 2025-03-02 16:13: feat(export): daily crop vigor health report generator
 - 2025-03-02 17:41: feat(export): daily crop vigor health report generator
 - 2025-03-04 13:27: feat(viterbi): decode most probable latent crop health state
+- 2025-03-04 18:53: feat(model): transition probability matrix calibration
