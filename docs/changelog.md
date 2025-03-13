@@ -53,3 +53,4 @@
 - 2025-03-04 18:53: feat(model): transition probability matrix calibration
 - 2025-03-04 22:54: feat(viterbi): decode most probable latent crop health state
 - 2025-03-13 15:53: feat(export): daily crop vigor health report generator
+- 2025-03-13 17:54: perf(db): SQLite WAL mode and prepared statement pooling
