@@ -50,3 +50,4 @@
 - 2025-03-24 14:27: perf(db): SQLite WAL mode and prepared statement pooling
 - 2025-03-24 15:08: feat(export): daily crop vigor health report generator
 - 2025-03-24 17:28: refactor(sensor): calibrate capacitance moisture probe scaling
+- 2025-03-24 18:55: feat(model): transition probability matrix calibration
