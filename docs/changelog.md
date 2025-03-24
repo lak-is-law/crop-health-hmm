@@ -56,3 +56,4 @@
 - 2025-03-13 17:54: perf(db): SQLite WAL mode and prepared statement pooling
 - 2025-03-13 21:00: feat(export): daily crop vigor health report generator
 - 2025-03-24 12:43: test(hmm): verify emission probability distribution bounds
+- 2025-03-24 14:27: perf(db): SQLite WAL mode and prepared statement pooling
