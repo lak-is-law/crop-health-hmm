@@ -57,3 +57,4 @@
 - 2025-03-25 13:34: refactor(dashboard): real-time state transition visualization
 - 2025-03-25 15:23: feat(api): endpoint returning 7-day predicted stress transition
 - 2025-03-25 18:21: refactor(sensor): calibrate capacitance moisture probe scaling
+- 2025-03-25 19:48: feat(model): transition probability matrix calibration
