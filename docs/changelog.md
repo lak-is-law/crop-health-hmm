@@ -55,3 +55,4 @@
 - 2025-03-25 10:56: perf(telemetry): stream sensor measurements to SQLite buffer
 - 2025-03-25 12:28: feat(api): endpoint returning 7-day predicted stress transition
 - 2025-03-25 13:34: refactor(dashboard): real-time state transition visualization
+- 2025-03-25 15:23: feat(api): endpoint returning 7-day predicted stress transition
