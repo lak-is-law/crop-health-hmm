@@ -57,3 +57,4 @@
 - 2025-04-11 18:44: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2025-04-11 22:09: feat(model): transition probability matrix calibration
 - 2025-04-14 10:27: perf(db): SQLite WAL mode and prepared statement pooling
+- 2025-04-14 19:42: refactor(dashboard): real-time state transition visualization
