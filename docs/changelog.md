@@ -51,3 +51,4 @@
 - 2025-04-14 19:42: refactor(dashboard): real-time state transition visualization
 - 2025-04-16 12:26: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-04-16 14:14: refactor(sensor): calibrate capacitance moisture probe scaling
+- 2025-04-16 19:31: test(hmm): verify emission probability distribution bounds
