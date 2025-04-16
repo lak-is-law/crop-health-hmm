@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2025-02-06 12:27: perf(db): SQLite WAL mode and prepared statement pooling
-- 2025-02-06 14:28: fix(pipeline): handle missing soil moisture sensor telemetry
-- 2025-02-06 15:17: refactor(dashboard): real-time state transition visualization
-- 2025-02-06 16:32: perf(telemetry): stream sensor measurements to SQLite buffer
-- 2025-02-06 17:01: fix(pipeline): handle missing soil moisture sensor telemetry
-- 2025-02-06 18:36: fix(pipeline): handle missing soil moisture sensor telemetry
-- 2025-02-06 19:22: refactor(sensor): calibrate capacitance moisture probe scaling
-- 2025-02-06 20:46: refactor(sensor): calibrate capacitance moisture probe scaling
-- 2025-02-06 21:34: feat(api): endpoint returning 7-day predicted stress transition
 - 2025-02-06 22:14: test(hmm): verify emission probability distribution bounds
 - 2025-02-08 14:54: perf(db): SQLite WAL mode and prepared statement pooling
 - 2025-02-08 19:15: test(hmm): verify emission probability distribution bounds
@@ -58,3 +49,4 @@
 - 2025-04-11 22:09: feat(model): transition probability matrix calibration
 - 2025-04-14 10:27: perf(db): SQLite WAL mode and prepared statement pooling
 - 2025-04-14 19:42: refactor(dashboard): real-time state transition visualization
+- 2025-04-16 12:26: fix(pipeline): handle missing soil moisture sensor telemetry
