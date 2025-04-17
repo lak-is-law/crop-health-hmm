@@ -53,3 +53,4 @@
 - 2025-04-16 14:14: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2025-04-16 19:31: test(hmm): verify emission probability distribution bounds
 - 2025-04-16 21:08: docs(math): document Baum-Welch parameter estimation routine
+- 2025-04-17 10:32: feat(viterbi): decode most probable latent crop health state
