@@ -57,3 +57,4 @@
 - 2025-04-17 12:03: feat(viterbi): decode most probable latent crop health state
 - 2025-04-17 14:02: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-04-17 17:16: refactor(dashboard): real-time state transition visualization
+- 2025-04-17 19:29: refactor(sensor): calibrate capacitance moisture probe scaling
