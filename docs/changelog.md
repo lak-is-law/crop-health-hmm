@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2025-02-06 22:14: test(hmm): verify emission probability distribution bounds
-- 2025-02-08 14:54: perf(db): SQLite WAL mode and prepared statement pooling
-- 2025-02-08 19:15: test(hmm): verify emission probability distribution bounds
-- 2025-02-19 10:33: feat(viterbi): decode most probable latent crop health state
-- 2025-02-19 11:35: feat(viterbi): decode most probable latent crop health state
-- 2025-02-19 12:59: docs(math): document Baum-Welch parameter estimation routine
-- 2025-02-19 13:16: refactor(sensor): calibrate capacitance moisture probe scaling
-- 2025-02-19 14:34: fix(pipeline): handle missing soil moisture sensor telemetry
-- 2025-02-19 15:43: test(hmm): verify emission probability distribution bounds
 - 2025-02-19 16:18: perf(telemetry): stream sensor measurements to SQLite buffer
 - 2025-02-19 17:19: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2025-02-19 18:23: test(hmm): verify emission probability distribution bounds
@@ -58,3 +49,4 @@
 - 2025-04-17 14:02: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-04-17 17:16: refactor(dashboard): real-time state transition visualization
 - 2025-04-17 19:29: refactor(sensor): calibrate capacitance moisture probe scaling
+- 2025-04-17 20:04: refactor(sensor): calibrate capacitance moisture probe scaling
