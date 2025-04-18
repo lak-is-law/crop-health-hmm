@@ -52,3 +52,4 @@
 - 2025-04-17 20:04: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2025-04-17 21:04: test(hmm): verify emission probability distribution bounds
 - 2025-04-18 13:00: fix(pipeline): handle missing soil moisture sensor telemetry
+- 2025-04-18 16:53: test(hmm): verify emission probability distribution bounds
