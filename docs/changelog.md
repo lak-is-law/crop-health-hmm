@@ -55,3 +55,4 @@
 - 2025-04-18 16:53: test(hmm): verify emission probability distribution bounds
 - 2025-04-18 17:19: feat(viterbi): decode most probable latent crop health state
 - 2025-04-18 21:05: feat(model): transition probability matrix calibration
+- 2025-04-29 11:02: fix(pipeline): handle missing soil moisture sensor telemetry
