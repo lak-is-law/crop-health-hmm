@@ -56,3 +56,4 @@
 - 2025-05-13 15:49: perf(db): SQLite WAL mode and prepared statement pooling
 - 2025-05-13 16:54: feat(api): endpoint returning 7-day predicted stress transition
 - 2025-05-13 17:29: feat(viterbi): decode most probable latent crop health state
+- 2025-05-13 18:45: feat(viterbi): decode most probable latent crop health state
