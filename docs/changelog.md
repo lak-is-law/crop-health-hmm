@@ -54,3 +54,4 @@
 - 2025-05-13 13:38: test(hmm): verify emission probability distribution bounds
 - 2025-05-13 14:59: docs(math): document Baum-Welch parameter estimation routine
 - 2025-05-13 15:49: perf(db): SQLite WAL mode and prepared statement pooling
+- 2025-05-13 16:54: feat(api): endpoint returning 7-day predicted stress transition
