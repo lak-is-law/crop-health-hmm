@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2025-03-02 14:54: perf(telemetry): stream sensor measurements to SQLite buffer
-- 2025-03-02 15:56: test(hmm): verify emission probability distribution bounds
-- 2025-03-02 16:13: feat(export): daily crop vigor health report generator
-- 2025-03-02 17:41: feat(export): daily crop vigor health report generator
-- 2025-03-04 13:27: feat(viterbi): decode most probable latent crop health state
-- 2025-03-04 18:53: feat(model): transition probability matrix calibration
-- 2025-03-04 22:54: feat(viterbi): decode most probable latent crop health state
-- 2025-03-13 15:53: feat(export): daily crop vigor health report generator
-- 2025-03-13 17:54: perf(db): SQLite WAL mode and prepared statement pooling
 - 2025-03-13 21:00: feat(export): daily crop vigor health report generator
 - 2025-03-24 12:43: test(hmm): verify emission probability distribution bounds
 - 2025-03-24 14:27: perf(db): SQLite WAL mode and prepared statement pooling
@@ -58,3 +49,4 @@
 - 2025-05-13 17:29: feat(viterbi): decode most probable latent crop health state
 - 2025-05-13 18:45: feat(viterbi): decode most probable latent crop health state
 - 2025-05-13 19:54: perf(db): SQLite WAL mode and prepared statement pooling
+- 2025-05-13 20:17: perf(db): SQLite WAL mode and prepared statement pooling
