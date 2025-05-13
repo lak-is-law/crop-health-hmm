@@ -51,3 +51,4 @@
 - 2025-05-13 19:54: perf(db): SQLite WAL mode and prepared statement pooling
 - 2025-05-13 20:17: perf(db): SQLite WAL mode and prepared statement pooling
 - 2025-05-13 21:06: feat(model): transition probability matrix calibration
+- 2025-05-13 22:57: perf(telemetry): stream sensor measurements to SQLite buffer
