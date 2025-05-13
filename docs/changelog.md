@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2025-02-19 16:18: perf(telemetry): stream sensor measurements to SQLite buffer
-- 2025-02-19 17:19: refactor(sensor): calibrate capacitance moisture probe scaling
-- 2025-02-19 18:23: test(hmm): verify emission probability distribution bounds
-- 2025-02-19 19:32: feat(viterbi): decode most probable latent crop health state
-- 2025-02-19 20:16: fix(pipeline): handle missing soil moisture sensor telemetry
-- 2025-02-19 21:52: fix(pipeline): handle missing soil moisture sensor telemetry
-- 2025-03-02 10:08: fix(pipeline): handle missing soil moisture sensor telemetry
-- 2025-03-02 12:53: test(hmm): verify emission probability distribution bounds
-- 2025-03-02 13:35: feat(export): daily crop vigor health report generator
 - 2025-03-02 14:54: perf(telemetry): stream sensor measurements to SQLite buffer
 - 2025-03-02 15:56: test(hmm): verify emission probability distribution bounds
 - 2025-03-02 16:13: feat(export): daily crop vigor health report generator
@@ -58,3 +49,4 @@
 - 2025-04-29 11:02: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-04-29 17:47: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-05-13 10:40: refactor(dashboard): real-time state transition visualization
+- 2025-05-13 11:36: test(hmm): verify emission probability distribution bounds
