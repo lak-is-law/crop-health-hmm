@@ -53,3 +53,4 @@
 - 2025-05-13 21:06: feat(model): transition probability matrix calibration
 - 2025-05-13 22:57: perf(telemetry): stream sensor measurements to SQLite buffer
 - 2025-05-16 10:35: fix(pipeline): handle missing soil moisture sensor telemetry
+- 2025-05-16 12:51: perf(telemetry): stream sensor measurements to SQLite buffer
