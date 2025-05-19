@@ -52,3 +52,4 @@
 - 2025-05-19 15:43: perf(telemetry): stream sensor measurements to SQLite buffer
 - 2025-05-19 20:21: feat(viterbi): decode most probable latent crop health state
 - 2025-05-19 21:15: feat(viterbi): decode most probable latent crop health state
+- 2025-05-19 22:29: refactor(dashboard): real-time state transition visualization
