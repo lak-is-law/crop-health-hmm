@@ -54,3 +54,4 @@
 - 2025-05-19 21:15: feat(viterbi): decode most probable latent crop health state
 - 2025-05-19 22:29: refactor(dashboard): real-time state transition visualization
 - 2025-05-25 11:23: feat(export): daily crop vigor health report generator
+- 2025-05-25 16:26: perf(db): SQLite WAL mode and prepared statement pooling
