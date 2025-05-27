@@ -56,3 +56,4 @@
 - 2025-05-25 11:23: feat(export): daily crop vigor health report generator
 - 2025-05-25 16:26: perf(db): SQLite WAL mode and prepared statement pooling
 - 2025-05-27 10:04: perf(db): SQLite WAL mode and prepared statement pooling
+- 2025-05-27 11:41: refactor(dashboard): real-time state transition visualization
