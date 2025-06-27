@@ -50,3 +50,4 @@
 - 2025-06-27 10:38: perf(db): SQLite WAL mode and prepared statement pooling
 - 2025-06-27 11:18: docs(math): document Baum-Welch parameter estimation routine
 - 2025-06-27 12:54: test(hmm): verify emission probability distribution bounds
+- 2025-06-27 16:03: perf(telemetry): stream sensor measurements to SQLite buffer
