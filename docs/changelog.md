@@ -52,3 +52,4 @@
 - 2025-06-27 12:54: test(hmm): verify emission probability distribution bounds
 - 2025-06-27 16:03: perf(telemetry): stream sensor measurements to SQLite buffer
 - 2025-06-27 17:02: perf(telemetry): stream sensor measurements to SQLite buffer
+- 2025-06-27 18:33: perf(telemetry): stream sensor measurements to SQLite buffer
