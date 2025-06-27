@@ -57,3 +57,4 @@
 - 2025-06-07 21:08: feat(model): transition probability matrix calibration
 - 2025-06-07 22:03: refactor(dashboard): real-time state transition visualization
 - 2025-06-27 10:38: perf(db): SQLite WAL mode and prepared statement pooling
+- 2025-06-27 11:18: docs(math): document Baum-Welch parameter estimation routine
