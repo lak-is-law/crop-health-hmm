@@ -54,3 +54,4 @@
 - 2025-06-27 17:02: perf(telemetry): stream sensor measurements to SQLite buffer
 - 2025-06-27 18:33: perf(telemetry): stream sensor measurements to SQLite buffer
 - 2025-06-27 20:34: perf(db): SQLite WAL mode and prepared statement pooling
+- 2025-07-09 10:16: test(hmm): verify emission probability distribution bounds
