@@ -50,3 +50,4 @@
 - 2025-07-09 15:18: refactor(dashboard): real-time state transition visualization
 - 2025-07-09 22:41: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2025-07-13 13:27: feat(model): transition probability matrix calibration
+- 2025-07-13 20:56: fix(pipeline): handle missing soil moisture sensor telemetry
