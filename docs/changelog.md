@@ -56,3 +56,4 @@
 - 2025-07-17 12:39: feat(export): daily crop vigor health report generator
 - 2025-07-17 15:57: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2025-07-17 18:12: perf(telemetry): stream sensor measurements to SQLite buffer
+- 2025-07-17 20:34: refactor(sensor): calibrate capacitance moisture probe scaling
