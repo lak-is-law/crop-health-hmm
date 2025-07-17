@@ -53,3 +53,4 @@
 - 2025-07-13 20:56: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-07-13 21:43: feat(viterbi): decode most probable latent crop health state
 - 2025-07-17 11:49: feat(api): endpoint returning 7-day predicted stress transition
+- 2025-07-17 12:39: feat(export): daily crop vigor health report generator
