@@ -57,3 +57,4 @@
 - 2025-07-17 15:57: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2025-07-17 18:12: perf(telemetry): stream sensor measurements to SQLite buffer
 - 2025-07-17 20:34: refactor(sensor): calibrate capacitance moisture probe scaling
+- 2025-07-20 12:03: feat(viterbi): decode most probable latent crop health state
