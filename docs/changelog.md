@@ -50,3 +50,4 @@
 - 2025-07-17 20:34: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2025-07-20 12:03: feat(viterbi): decode most probable latent crop health state
 - 2025-07-20 13:31: feat(export): daily crop vigor health report generator
+- 2025-07-20 15:51: perf(db): SQLite WAL mode and prepared statement pooling
