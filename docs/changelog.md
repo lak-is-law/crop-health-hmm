@@ -53,3 +53,4 @@
 - 2025-07-20 15:51: perf(db): SQLite WAL mode and prepared statement pooling
 - 2025-07-20 21:12: feat(api): endpoint returning 7-day predicted stress transition
 - 2025-07-30 15:28: refactor(dashboard): real-time state transition visualization
+- 2025-07-30 16:00: feat(api): endpoint returning 7-day predicted stress transition
