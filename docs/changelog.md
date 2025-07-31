@@ -52,3 +52,4 @@
 - 2025-07-31 13:16: feat(model): transition probability matrix calibration
 - 2025-07-31 15:10: feat(model): transition probability matrix calibration
 - 2025-07-31 16:33: refactor(dashboard): real-time state transition visualization
+- 2025-07-31 17:57: feat(export): daily crop vigor health report generator
