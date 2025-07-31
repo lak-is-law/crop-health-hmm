@@ -51,3 +51,4 @@
 - 2025-07-31 11:17: perf(db): SQLite WAL mode and prepared statement pooling
 - 2025-07-31 13:16: feat(model): transition probability matrix calibration
 - 2025-07-31 15:10: feat(model): transition probability matrix calibration
+- 2025-07-31 16:33: refactor(dashboard): real-time state transition visualization
