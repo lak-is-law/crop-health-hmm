@@ -55,3 +55,4 @@
 - 2025-07-31 17:57: feat(export): daily crop vigor health report generator
 - 2025-07-31 19:22: feat(viterbi): decode most probable latent crop health state
 - 2025-07-31 20:55: test(hmm): verify emission probability distribution bounds
+- 2025-07-31 22:55: docs(math): document Baum-Welch parameter estimation routine
