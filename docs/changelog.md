@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2025-05-19 10:44: feat(api): endpoint returning 7-day predicted stress transition
-- 2025-05-19 11:07: feat(api): endpoint returning 7-day predicted stress transition
-- 2025-05-19 12:44: refactor(dashboard): real-time state transition visualization
-- 2025-05-19 14:50: perf(db): SQLite WAL mode and prepared statement pooling
-- 2025-05-19 15:43: perf(telemetry): stream sensor measurements to SQLite buffer
-- 2025-05-19 20:21: feat(viterbi): decode most probable latent crop health state
-- 2025-05-19 21:15: feat(viterbi): decode most probable latent crop health state
-- 2025-05-19 22:29: refactor(dashboard): real-time state transition visualization
-- 2025-05-25 11:23: feat(export): daily crop vigor health report generator
 - 2025-05-25 16:26: perf(db): SQLite WAL mode and prepared statement pooling
 - 2025-05-27 10:04: perf(db): SQLite WAL mode and prepared statement pooling
 - 2025-05-27 11:41: refactor(dashboard): real-time state transition visualization
@@ -58,3 +49,4 @@
 - 2025-07-30 19:52: feat(export): daily crop vigor health report generator
 - 2025-07-31 10:47: feat(api): endpoint returning 7-day predicted stress transition
 - 2025-07-31 11:17: perf(db): SQLite WAL mode and prepared statement pooling
+- 2025-07-31 13:16: feat(model): transition probability matrix calibration
