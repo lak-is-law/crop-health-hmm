@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2025-05-25 16:26: perf(db): SQLite WAL mode and prepared statement pooling
-- 2025-05-27 10:04: perf(db): SQLite WAL mode and prepared statement pooling
-- 2025-05-27 11:41: refactor(dashboard): real-time state transition visualization
-- 2025-05-27 12:39: feat(api): endpoint returning 7-day predicted stress transition
-- 2025-05-27 21:55: refactor(sensor): calibrate capacitance moisture probe scaling
-- 2025-05-27 22:14: test(hmm): verify emission probability distribution bounds
-- 2025-06-02 14:46: fix(pipeline): handle missing soil moisture sensor telemetry
-- 2025-06-02 15:06: feat(model): transition probability matrix calibration
-- 2025-06-02 17:34: docs(math): document Baum-Welch parameter estimation routine
 - 2025-06-07 10:45: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2025-06-07 11:17: perf(db): SQLite WAL mode and prepared statement pooling
 - 2025-06-07 12:30: feat(model): transition probability matrix calibration
@@ -58,3 +49,4 @@
 - 2025-07-31 22:55: docs(math): document Baum-Welch parameter estimation routine
 - 2025-08-05 10:07: perf(db): SQLite WAL mode and prepared statement pooling
 - 2025-08-05 10:20: feat(api): endpoint returning 7-day predicted stress transition
+- 2025-08-05 11:01: docs(math): document Baum-Welch parameter estimation routine
