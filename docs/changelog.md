@@ -55,3 +55,4 @@
 - 2025-08-05 12:49: refactor(dashboard): real-time state transition visualization
 - 2025-08-05 13:06: feat(viterbi): decode most probable latent crop health state
 - 2025-08-05 13:30: docs(math): document Baum-Welch parameter estimation routine
+- 2025-08-05 14:03: feat(viterbi): decode most probable latent crop health state
