@@ -56,3 +56,4 @@
 - 2025-07-31 19:22: feat(viterbi): decode most probable latent crop health state
 - 2025-07-31 20:55: test(hmm): verify emission probability distribution bounds
 - 2025-07-31 22:55: docs(math): document Baum-Welch parameter estimation routine
+- 2025-08-05 10:07: perf(db): SQLite WAL mode and prepared statement pooling
