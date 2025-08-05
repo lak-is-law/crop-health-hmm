@@ -50,3 +50,4 @@
 - 2025-08-05 10:07: perf(db): SQLite WAL mode and prepared statement pooling
 - 2025-08-05 10:20: feat(api): endpoint returning 7-day predicted stress transition
 - 2025-08-05 11:01: docs(math): document Baum-Welch parameter estimation routine
+- 2025-08-05 11:43: fix(pipeline): handle missing soil moisture sensor telemetry
