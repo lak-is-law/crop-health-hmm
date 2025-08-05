@@ -54,3 +54,4 @@
 - 2025-08-05 19:15: feat(export): daily crop vigor health report generator
 - 2025-08-05 20:43: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2025-08-05 21:39: docs(math): document Baum-Welch parameter estimation routine
+- 2025-08-05 22:04: test(hmm): verify emission probability distribution bounds
