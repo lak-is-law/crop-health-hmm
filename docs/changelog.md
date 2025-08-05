@@ -53,3 +53,4 @@
 - 2025-08-05 18:07: feat(api): endpoint returning 7-day predicted stress transition
 - 2025-08-05 19:15: feat(export): daily crop vigor health report generator
 - 2025-08-05 20:43: refactor(sensor): calibrate capacitance moisture probe scaling
+- 2025-08-05 21:39: docs(math): document Baum-Welch parameter estimation routine
