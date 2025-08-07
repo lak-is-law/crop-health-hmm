@@ -56,3 +56,4 @@
 - 2025-08-05 21:39: docs(math): document Baum-Welch parameter estimation routine
 - 2025-08-05 22:04: test(hmm): verify emission probability distribution bounds
 - 2025-08-07 11:42: refactor(dashboard): real-time state transition visualization
+- 2025-08-07 15:11: fix(pipeline): handle missing soil moisture sensor telemetry
