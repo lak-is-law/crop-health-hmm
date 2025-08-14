@@ -50,3 +50,4 @@
 - 2025-08-07 15:11: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-08-07 16:30: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2025-08-07 17:02: feat(export): daily crop vigor health report generator
+- 2025-08-14 12:36: feat(api): endpoint returning 7-day predicted stress transition
