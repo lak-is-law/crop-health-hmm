@@ -57,3 +57,4 @@
 - 2025-08-22 12:31: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-08-22 13:00: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-08-22 14:50: perf(db): SQLite WAL mode and prepared statement pooling
+- 2025-08-22 15:30: perf(telemetry): stream sensor measurements to SQLite buffer
