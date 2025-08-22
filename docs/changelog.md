@@ -56,3 +56,4 @@
 - 2025-08-22 11:54: feat(viterbi): decode most probable latent crop health state
 - 2025-08-22 12:31: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-08-22 13:00: fix(pipeline): handle missing soil moisture sensor telemetry
+- 2025-08-22 14:50: perf(db): SQLite WAL mode and prepared statement pooling
