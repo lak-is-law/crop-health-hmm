@@ -52,3 +52,4 @@
 - 2025-08-07 17:02: feat(export): daily crop vigor health report generator
 - 2025-08-14 12:36: feat(api): endpoint returning 7-day predicted stress transition
 - 2025-08-14 18:51: feat(api): endpoint returning 7-day predicted stress transition
+- 2025-08-22 10:12: refactor(dashboard): real-time state transition visualization
