@@ -52,3 +52,4 @@
 - 2025-08-22 17:48: feat(api): endpoint returning 7-day predicted stress transition
 - 2025-08-22 18:53: feat(api): endpoint returning 7-day predicted stress transition
 - 2025-08-22 20:10: refactor(sensor): calibrate capacitance moisture probe scaling
+- 2025-08-22 21:33: feat(api): endpoint returning 7-day predicted stress transition
