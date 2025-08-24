@@ -55,3 +55,4 @@
 - 2025-08-22 21:33: feat(api): endpoint returning 7-day predicted stress transition
 - 2025-08-22 22:53: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-08-24 10:39: perf(db): SQLite WAL mode and prepared statement pooling
+- 2025-08-24 11:36: perf(telemetry): stream sensor measurements to SQLite buffer
