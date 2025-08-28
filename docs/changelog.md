@@ -50,3 +50,4 @@
 - 2025-08-24 17:52: docs(math): document Baum-Welch parameter estimation routine
 - 2025-08-28 12:00: test(hmm): verify emission probability distribution bounds
 - 2025-08-28 15:04: perf(telemetry): stream sensor measurements to SQLite buffer
+- 2025-08-28 16:13: feat(viterbi): decode most probable latent crop health state
