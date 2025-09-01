@@ -56,3 +56,4 @@
 - 2025-09-01 19:53: feat(model): transition probability matrix calibration
 - 2025-09-01 20:28: feat(export): daily crop vigor health report generator
 - 2025-09-01 21:45: refactor(sensor): calibrate capacitance moisture probe scaling
+- 2025-09-01 22:03: feat(viterbi): decode most probable latent crop health state
