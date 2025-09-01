@@ -57,3 +57,4 @@
 - 2025-09-01 11:38: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-09-01 12:49: perf(telemetry): stream sensor measurements to SQLite buffer
 - 2025-09-01 13:04: refactor(sensor): calibrate capacitance moisture probe scaling
+- 2025-09-01 14:28: refactor(dashboard): real-time state transition visualization
