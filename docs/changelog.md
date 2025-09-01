@@ -52,3 +52,4 @@
 - 2025-08-28 15:04: perf(telemetry): stream sensor measurements to SQLite buffer
 - 2025-08-28 16:13: feat(viterbi): decode most probable latent crop health state
 - 2025-08-28 20:49: feat(export): daily crop vigor health report generator
+- 2025-09-01 10:02: test(hmm): verify emission probability distribution bounds
