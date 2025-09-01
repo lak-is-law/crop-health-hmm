@@ -53,3 +53,4 @@
 - 2025-09-01 16:20: feat(export): daily crop vigor health report generator
 - 2025-09-01 17:58: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-09-01 18:41: docs(math): document Baum-Welch parameter estimation routine
+- 2025-09-01 19:53: feat(model): transition probability matrix calibration
