@@ -55,3 +55,4 @@
 - 2025-09-01 18:41: docs(math): document Baum-Welch parameter estimation routine
 - 2025-09-01 19:53: feat(model): transition probability matrix calibration
 - 2025-09-01 20:28: feat(export): daily crop vigor health report generator
+- 2025-09-01 21:45: refactor(sensor): calibrate capacitance moisture probe scaling
