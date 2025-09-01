@@ -54,3 +54,4 @@
 - 2025-08-28 20:49: feat(export): daily crop vigor health report generator
 - 2025-09-01 10:02: test(hmm): verify emission probability distribution bounds
 - 2025-09-01 10:34: refactor(dashboard): real-time state transition visualization
+- 2025-09-01 11:38: fix(pipeline): handle missing soil moisture sensor telemetry
