@@ -57,3 +57,4 @@
 - 2025-09-01 20:28: feat(export): daily crop vigor health report generator
 - 2025-09-01 21:45: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2025-09-01 22:03: feat(viterbi): decode most probable latent crop health state
+- 2025-09-02 13:43: feat(api): endpoint returning 7-day predicted stress transition
