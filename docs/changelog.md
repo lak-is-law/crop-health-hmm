@@ -51,3 +51,4 @@
 - 2025-09-02 13:43: feat(api): endpoint returning 7-day predicted stress transition
 - 2025-09-02 14:53: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-09-02 15:55: docs(math): document Baum-Welch parameter estimation routine
+- 2025-09-02 18:14: feat(export): daily crop vigor health report generator
