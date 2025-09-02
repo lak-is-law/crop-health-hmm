@@ -53,3 +53,4 @@
 - 2025-09-02 15:55: docs(math): document Baum-Welch parameter estimation routine
 - 2025-09-02 18:14: feat(export): daily crop vigor health report generator
 - 2025-09-02 21:50: feat(viterbi): decode most probable latent crop health state
+- 2025-09-02 22:24: feat(model): transition probability matrix calibration
