@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2025-08-05 13:30: docs(math): document Baum-Welch parameter estimation routine
-- 2025-08-05 14:03: feat(viterbi): decode most probable latent crop health state
-- 2025-08-05 15:28: fix(pipeline): handle missing soil moisture sensor telemetry
-- 2025-08-05 16:23: refactor(dashboard): real-time state transition visualization
-- 2025-08-05 17:51: refactor(dashboard): real-time state transition visualization
-- 2025-08-05 18:07: feat(api): endpoint returning 7-day predicted stress transition
-- 2025-08-05 19:15: feat(export): daily crop vigor health report generator
-- 2025-08-05 20:43: refactor(sensor): calibrate capacitance moisture probe scaling
-- 2025-08-05 21:39: docs(math): document Baum-Welch parameter estimation routine
 - 2025-08-05 22:04: test(hmm): verify emission probability distribution bounds
 - 2025-08-07 11:42: refactor(dashboard): real-time state transition visualization
 - 2025-08-07 15:11: fix(pipeline): handle missing soil moisture sensor telemetry
@@ -58,3 +49,4 @@
 - 2025-09-03 11:45: feat(api): endpoint returning 7-day predicted stress transition
 - 2025-09-03 13:12: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-09-03 15:32: refactor(dashboard): real-time state transition visualization
+- 2025-09-03 16:53: feat(model): transition probability matrix calibration
