@@ -56,3 +56,4 @@
 - 2025-09-02 22:24: feat(model): transition probability matrix calibration
 - 2025-09-03 10:44: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2025-09-03 11:45: feat(api): endpoint returning 7-day predicted stress transition
+- 2025-09-03 13:12: fix(pipeline): handle missing soil moisture sensor telemetry
