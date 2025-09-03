@@ -50,3 +50,4 @@
 - 2025-09-03 13:12: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-09-03 15:32: refactor(dashboard): real-time state transition visualization
 - 2025-09-03 16:53: feat(model): transition probability matrix calibration
+- 2025-09-03 20:58: feat(model): transition probability matrix calibration
