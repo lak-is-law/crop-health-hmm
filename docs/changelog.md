@@ -55,3 +55,4 @@
 - 2025-09-08 11:48: feat(api): endpoint returning 7-day predicted stress transition
 - 2025-09-08 12:39: feat(viterbi): decode most probable latent crop health state
 - 2025-09-08 13:36: feat(model): transition probability matrix calibration
+- 2025-09-08 14:23: refactor(sensor): calibrate capacitance moisture probe scaling
