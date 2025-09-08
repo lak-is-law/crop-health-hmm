@@ -56,3 +56,4 @@
 - 2025-09-08 12:39: feat(viterbi): decode most probable latent crop health state
 - 2025-09-08 13:36: feat(model): transition probability matrix calibration
 - 2025-09-08 14:23: refactor(sensor): calibrate capacitance moisture probe scaling
+- 2025-09-08 15:22: test(hmm): verify emission probability distribution bounds
