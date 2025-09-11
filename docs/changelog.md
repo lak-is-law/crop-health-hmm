@@ -56,3 +56,4 @@
 - 2025-09-11 10:40: feat(export): daily crop vigor health report generator
 - 2025-09-11 11:11: feat(export): daily crop vigor health report generator
 - 2025-09-11 11:46: feat(viterbi): decode most probable latent crop health state
+- 2025-09-11 12:26: fix(pipeline): handle missing soil moisture sensor telemetry
