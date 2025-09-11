@@ -57,3 +57,4 @@
 - 2025-09-11 19:33: feat(viterbi): decode most probable latent crop health state
 - 2025-09-11 20:57: feat(viterbi): decode most probable latent crop health state
 - 2025-09-11 21:05: fix(pipeline): handle missing soil moisture sensor telemetry
+- 2025-09-11 22:44: fix(pipeline): handle missing soil moisture sensor telemetry
