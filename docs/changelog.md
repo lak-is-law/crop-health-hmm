@@ -52,3 +52,4 @@
 - 2025-09-08 19:16: feat(model): transition probability matrix calibration
 - 2025-09-08 20:45: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-09-08 21:13: perf(telemetry): stream sensor measurements to SQLite buffer
+- 2025-09-11 10:14: docs(math): document Baum-Welch parameter estimation routine
