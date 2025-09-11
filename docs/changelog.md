@@ -53,3 +53,4 @@
 - 2025-09-08 20:45: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-09-08 21:13: perf(telemetry): stream sensor measurements to SQLite buffer
 - 2025-09-11 10:14: docs(math): document Baum-Welch parameter estimation routine
+- 2025-09-11 10:40: feat(export): daily crop vigor health report generator
