@@ -50,3 +50,4 @@
 - 2025-09-11 21:05: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-09-11 22:44: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-09-13 12:11: fix(pipeline): handle missing soil moisture sensor telemetry
+- 2025-09-13 13:32: docs(math): document Baum-Welch parameter estimation routine
