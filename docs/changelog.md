@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2025-08-24 10:39: perf(db): SQLite WAL mode and prepared statement pooling
-- 2025-08-24 11:36: perf(telemetry): stream sensor measurements to SQLite buffer
-- 2025-08-24 17:52: docs(math): document Baum-Welch parameter estimation routine
-- 2025-08-28 12:00: test(hmm): verify emission probability distribution bounds
-- 2025-08-28 15:04: perf(telemetry): stream sensor measurements to SQLite buffer
-- 2025-08-28 16:13: feat(viterbi): decode most probable latent crop health state
-- 2025-08-28 20:49: feat(export): daily crop vigor health report generator
-- 2025-09-01 10:02: test(hmm): verify emission probability distribution bounds
-- 2025-09-01 10:34: refactor(dashboard): real-time state transition visualization
 - 2025-09-01 11:38: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-09-01 12:49: perf(telemetry): stream sensor measurements to SQLite buffer
 - 2025-09-01 13:04: refactor(sensor): calibrate capacitance moisture probe scaling
@@ -58,3 +49,4 @@
 - 2025-09-11 20:57: feat(viterbi): decode most probable latent crop health state
 - 2025-09-11 21:05: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-09-11 22:44: fix(pipeline): handle missing soil moisture sensor telemetry
+- 2025-09-13 12:11: fix(pipeline): handle missing soil moisture sensor telemetry
