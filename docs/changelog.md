@@ -52,3 +52,4 @@
 - 2025-09-13 12:11: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-09-13 13:32: docs(math): document Baum-Welch parameter estimation routine
 - 2025-09-13 19:28: feat(viterbi): decode most probable latent crop health state
+- 2025-09-13 20:57: perf(telemetry): stream sensor measurements to SQLite buffer
