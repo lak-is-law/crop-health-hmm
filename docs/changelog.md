@@ -56,3 +56,4 @@
 - 2025-09-13 21:38: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-09-18 11:22: perf(telemetry): stream sensor measurements to SQLite buffer
 - 2025-09-18 12:30: feat(viterbi): decode most probable latent crop health state
+- 2025-09-18 13:19: refactor(dashboard): real-time state transition visualization
