@@ -50,3 +50,4 @@
 - 2025-09-18 13:19: refactor(dashboard): real-time state transition visualization
 - 2025-09-18 18:37: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-09-18 22:13: docs(math): document Baum-Welch parameter estimation routine
+- 2025-09-21 10:21: docs(math): document Baum-Welch parameter estimation routine
