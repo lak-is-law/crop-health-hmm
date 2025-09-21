@@ -54,3 +54,4 @@
 - 2025-09-21 14:27: feat(export): daily crop vigor health report generator
 - 2025-09-21 16:19: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-09-21 18:46: refactor(sensor): calibrate capacitance moisture probe scaling
+- 2025-09-21 20:49: feat(model): transition probability matrix calibration
