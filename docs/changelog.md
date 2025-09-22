@@ -57,3 +57,4 @@
 - 2025-09-21 20:49: feat(model): transition probability matrix calibration
 - 2025-09-21 21:26: feat(export): daily crop vigor health report generator
 - 2025-09-21 22:04: refactor(sensor): calibrate capacitance moisture probe scaling
+- 2025-09-22 11:55: perf(db): SQLite WAL mode and prepared statement pooling
