@@ -51,3 +51,4 @@
 - 2025-09-22 11:55: perf(db): SQLite WAL mode and prepared statement pooling
 - 2025-09-22 19:49: docs(math): document Baum-Welch parameter estimation routine
 - 2025-09-22 22:05: test(hmm): verify emission probability distribution bounds
+- 2025-09-29 11:13: feat(api): endpoint returning 7-day predicted stress transition
