@@ -57,3 +57,4 @@
 - 2025-09-29 22:20: feat(export): daily crop vigor health report generator
 - 2025-09-30 14:22: refactor(dashboard): real-time state transition visualization
 - 2025-09-30 18:20: refactor(sensor): calibrate capacitance moisture probe scaling
+- 2025-09-30 20:09: perf(db): SQLite WAL mode and prepared statement pooling
