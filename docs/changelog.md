@@ -55,3 +55,4 @@
 - 2025-09-29 14:46: feat(export): daily crop vigor health report generator
 - 2025-09-29 20:39: test(hmm): verify emission probability distribution bounds
 - 2025-09-29 22:20: feat(export): daily crop vigor health report generator
+- 2025-09-30 14:22: refactor(dashboard): real-time state transition visualization
