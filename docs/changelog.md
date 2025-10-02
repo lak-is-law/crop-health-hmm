@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2025-09-03 10:44: refactor(sensor): calibrate capacitance moisture probe scaling
-- 2025-09-03 11:45: feat(api): endpoint returning 7-day predicted stress transition
-- 2025-09-03 13:12: fix(pipeline): handle missing soil moisture sensor telemetry
-- 2025-09-03 15:32: refactor(dashboard): real-time state transition visualization
-- 2025-09-03 16:53: feat(model): transition probability matrix calibration
-- 2025-09-03 20:58: feat(model): transition probability matrix calibration
-- 2025-09-08 10:50: refactor(dashboard): real-time state transition visualization
-- 2025-09-08 11:48: feat(api): endpoint returning 7-day predicted stress transition
-- 2025-09-08 12:39: feat(viterbi): decode most probable latent crop health state
 - 2025-09-08 13:36: feat(model): transition probability matrix calibration
 - 2025-09-08 14:23: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2025-09-08 15:22: test(hmm): verify emission probability distribution bounds
@@ -58,3 +49,4 @@
 - 2025-09-30 14:22: refactor(dashboard): real-time state transition visualization
 - 2025-09-30 18:20: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2025-09-30 20:09: perf(db): SQLite WAL mode and prepared statement pooling
+- 2025-10-02 11:30: refactor(sensor): calibrate capacitance moisture probe scaling
