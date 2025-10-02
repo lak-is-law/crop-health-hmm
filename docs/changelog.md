@@ -51,3 +51,4 @@
 - 2025-09-30 20:09: perf(db): SQLite WAL mode and prepared statement pooling
 - 2025-10-02 11:30: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2025-10-02 13:40: test(hmm): verify emission probability distribution bounds
+- 2025-10-02 14:06: perf(telemetry): stream sensor measurements to SQLite buffer
