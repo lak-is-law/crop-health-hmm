@@ -53,3 +53,4 @@
 - 2025-10-02 13:40: test(hmm): verify emission probability distribution bounds
 - 2025-10-02 14:06: perf(telemetry): stream sensor measurements to SQLite buffer
 - 2025-10-02 15:57: feat(export): daily crop vigor health report generator
+- 2025-10-02 17:31: feat(api): endpoint returning 7-day predicted stress transition
