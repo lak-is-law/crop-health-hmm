@@ -51,3 +51,4 @@
 - 2025-10-03 16:45: feat(viterbi): decode most probable latent crop health state
 - 2025-10-03 17:16: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-10-07 11:23: refactor(dashboard): real-time state transition visualization
+- 2025-10-07 13:15: feat(api): endpoint returning 7-day predicted stress transition
