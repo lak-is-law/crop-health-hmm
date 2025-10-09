@@ -57,3 +57,4 @@
 - 2025-10-09 11:07: perf(telemetry): stream sensor measurements to SQLite buffer
 - 2025-10-09 12:36: docs(math): document Baum-Welch parameter estimation routine
 - 2025-10-09 20:11: feat(model): transition probability matrix calibration
+- 2025-10-09 22:26: feat(model): transition probability matrix calibration
