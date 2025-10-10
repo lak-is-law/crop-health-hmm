@@ -50,3 +50,4 @@
 - 2025-10-09 20:11: feat(model): transition probability matrix calibration
 - 2025-10-09 22:26: feat(model): transition probability matrix calibration
 - 2025-10-10 17:04: docs(math): document Baum-Welch parameter estimation routine
+- 2025-10-10 19:14: refactor(dashboard): real-time state transition visualization
