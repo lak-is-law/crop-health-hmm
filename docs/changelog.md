@@ -53,3 +53,4 @@
 - 2025-10-10 19:14: refactor(dashboard): real-time state transition visualization
 - 2025-10-12 10:07: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-10-12 11:10: refactor(dashboard): real-time state transition visualization
+- 2025-10-12 12:26: feat(viterbi): decode most probable latent crop health state
