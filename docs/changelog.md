@@ -51,3 +51,4 @@
 - 2025-10-09 22:26: feat(model): transition probability matrix calibration
 - 2025-10-10 17:04: docs(math): document Baum-Welch parameter estimation routine
 - 2025-10-10 19:14: refactor(dashboard): real-time state transition visualization
+- 2025-10-12 10:07: fix(pipeline): handle missing soil moisture sensor telemetry
