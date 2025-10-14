@@ -52,3 +52,4 @@
 - 2025-10-14 12:32: perf(telemetry): stream sensor measurements to SQLite buffer
 - 2025-10-14 13:17: perf(telemetry): stream sensor measurements to SQLite buffer
 - 2025-10-14 16:21: perf(telemetry): stream sensor measurements to SQLite buffer
+- 2025-10-14 18:06: refactor(dashboard): real-time state transition visualization
