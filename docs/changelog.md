@@ -54,3 +54,4 @@
 - 2025-10-14 16:21: perf(telemetry): stream sensor measurements to SQLite buffer
 - 2025-10-14 18:06: refactor(dashboard): real-time state transition visualization
 - 2025-10-14 19:38: feat(viterbi): decode most probable latent crop health state
+- 2025-10-14 21:12: docs(math): document Baum-Welch parameter estimation routine
