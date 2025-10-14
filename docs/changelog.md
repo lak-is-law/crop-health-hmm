@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2025-09-11 19:33: feat(viterbi): decode most probable latent crop health state
-- 2025-09-11 20:57: feat(viterbi): decode most probable latent crop health state
-- 2025-09-11 21:05: fix(pipeline): handle missing soil moisture sensor telemetry
-- 2025-09-11 22:44: fix(pipeline): handle missing soil moisture sensor telemetry
-- 2025-09-13 12:11: fix(pipeline): handle missing soil moisture sensor telemetry
-- 2025-09-13 13:32: docs(math): document Baum-Welch parameter estimation routine
-- 2025-09-13 19:28: feat(viterbi): decode most probable latent crop health state
-- 2025-09-13 20:57: perf(telemetry): stream sensor measurements to SQLite buffer
-- 2025-09-13 21:38: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-09-18 11:22: perf(telemetry): stream sensor measurements to SQLite buffer
 - 2025-09-18 12:30: feat(viterbi): decode most probable latent crop health state
 - 2025-09-18 13:19: refactor(dashboard): real-time state transition visualization
@@ -58,3 +49,4 @@
 - 2025-10-12 14:26: feat(export): daily crop vigor health report generator
 - 2025-10-12 17:21: feat(api): endpoint returning 7-day predicted stress transition
 - 2025-10-14 11:10: feat(export): daily crop vigor health report generator
+- 2025-10-14 12:32: perf(telemetry): stream sensor measurements to SQLite buffer
