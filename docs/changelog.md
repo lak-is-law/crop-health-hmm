@@ -57,3 +57,4 @@
 - 2025-10-12 13:22: test(hmm): verify emission probability distribution bounds
 - 2025-10-12 14:26: feat(export): daily crop vigor health report generator
 - 2025-10-12 17:21: feat(api): endpoint returning 7-day predicted stress transition
+- 2025-10-14 11:10: feat(export): daily crop vigor health report generator
