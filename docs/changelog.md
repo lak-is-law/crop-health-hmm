@@ -50,3 +50,4 @@
 - 2025-10-31 11:31: docs(math): document Baum-Welch parameter estimation routine
 - 2025-10-31 15:25: perf(db): SQLite WAL mode and prepared statement pooling
 - 2025-10-31 20:58: feat(viterbi): decode most probable latent crop health state
+- 2025-10-31 22:07: refactor(sensor): calibrate capacitance moisture probe scaling
