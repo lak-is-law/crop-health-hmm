@@ -57,3 +57,4 @@
 - 2025-10-14 21:12: docs(math): document Baum-Welch parameter estimation routine
 - 2025-10-14 22:44: docs(math): document Baum-Welch parameter estimation routine
 - 2025-10-31 11:31: docs(math): document Baum-Welch parameter estimation routine
+- 2025-10-31 15:25: perf(db): SQLite WAL mode and prepared statement pooling
