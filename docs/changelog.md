@@ -56,3 +56,4 @@
 - 2025-10-14 19:38: feat(viterbi): decode most probable latent crop health state
 - 2025-10-14 21:12: docs(math): document Baum-Welch parameter estimation routine
 - 2025-10-14 22:44: docs(math): document Baum-Welch parameter estimation routine
+- 2025-10-31 11:31: docs(math): document Baum-Welch parameter estimation routine
