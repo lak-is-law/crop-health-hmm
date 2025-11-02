@@ -54,3 +54,4 @@
 - 2025-11-02 10:24: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-11-02 12:50: perf(db): SQLite WAL mode and prepared statement pooling
 - 2025-11-02 14:15: perf(db): SQLite WAL mode and prepared statement pooling
+- 2025-11-02 15:21: refactor(dashboard): real-time state transition visualization
