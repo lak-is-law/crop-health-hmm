@@ -51,3 +51,4 @@
 - 2025-10-31 15:25: perf(db): SQLite WAL mode and prepared statement pooling
 - 2025-10-31 20:58: feat(viterbi): decode most probable latent crop health state
 - 2025-10-31 22:07: refactor(sensor): calibrate capacitance moisture probe scaling
+- 2025-11-02 10:24: fix(pipeline): handle missing soil moisture sensor telemetry
