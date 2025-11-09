@@ -50,3 +50,4 @@
 - 2025-11-02 20:40: feat(api): endpoint returning 7-day predicted stress transition
 - 2025-11-02 22:48: feat(viterbi): decode most probable latent crop health state
 - 2025-11-09 13:36: perf(db): SQLite WAL mode and prepared statement pooling
+- 2025-11-09 15:41: feat(export): daily crop vigor health report generator
