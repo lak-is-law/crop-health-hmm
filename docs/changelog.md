@@ -56,3 +56,4 @@
 - 2025-11-11 12:10: test(hmm): verify emission probability distribution bounds
 - 2025-11-11 13:37: perf(telemetry): stream sensor measurements to SQLite buffer
 - 2025-11-11 14:30: perf(db): SQLite WAL mode and prepared statement pooling
+- 2025-11-11 15:31: fix(pipeline): handle missing soil moisture sensor telemetry
