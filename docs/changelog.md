@@ -53,3 +53,4 @@
 - 2025-11-11 18:19: perf(telemetry): stream sensor measurements to SQLite buffer
 - 2025-11-11 19:49: feat(model): transition probability matrix calibration
 - 2025-11-11 20:56: feat(export): daily crop vigor health report generator
+- 2025-11-11 21:38: feat(model): transition probability matrix calibration
