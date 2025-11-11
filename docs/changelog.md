@@ -51,3 +51,4 @@
 - 2025-11-11 16:51: perf(db): SQLite WAL mode and prepared statement pooling
 - 2025-11-11 17:22: feat(api): endpoint returning 7-day predicted stress transition
 - 2025-11-11 18:19: perf(telemetry): stream sensor measurements to SQLite buffer
+- 2025-11-11 19:49: feat(model): transition probability matrix calibration
