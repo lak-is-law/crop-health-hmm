@@ -57,3 +57,4 @@
 - 2025-11-11 22:11: test(hmm): verify emission probability distribution bounds
 - 2025-11-12 10:17: perf(telemetry): stream sensor measurements to SQLite buffer
 - 2025-11-12 11:04: refactor(dashboard): real-time state transition visualization
+- 2025-11-12 12:53: test(hmm): verify emission probability distribution bounds
