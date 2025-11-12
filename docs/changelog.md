@@ -55,3 +55,4 @@
 - 2025-11-11 20:56: feat(export): daily crop vigor health report generator
 - 2025-11-11 21:38: feat(model): transition probability matrix calibration
 - 2025-11-11 22:11: test(hmm): verify emission probability distribution bounds
+- 2025-11-12 10:17: perf(telemetry): stream sensor measurements to SQLite buffer
