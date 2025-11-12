@@ -54,3 +54,4 @@
 - 2025-11-12 15:04: feat(model): transition probability matrix calibration
 - 2025-11-12 16:20: refactor(dashboard): real-time state transition visualization
 - 2025-11-12 17:24: feat(model): transition probability matrix calibration
+- 2025-11-12 18:31: feat(api): endpoint returning 7-day predicted stress transition
