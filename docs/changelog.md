@@ -51,3 +51,4 @@
 - 2025-11-12 12:53: test(hmm): verify emission probability distribution bounds
 - 2025-11-12 13:52: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2025-11-12 14:39: feat(api): endpoint returning 7-day predicted stress transition
+- 2025-11-12 15:04: feat(model): transition probability matrix calibration
