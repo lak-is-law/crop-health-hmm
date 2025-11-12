@@ -56,3 +56,4 @@
 - 2025-11-12 17:24: feat(model): transition probability matrix calibration
 - 2025-11-12 18:31: feat(api): endpoint returning 7-day predicted stress transition
 - 2025-11-12 19:39: perf(db): SQLite WAL mode and prepared statement pooling
+- 2025-11-12 21:40: feat(export): daily crop vigor health report generator
