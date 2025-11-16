@@ -53,3 +53,4 @@
 - 2025-11-16 12:32: feat(model): transition probability matrix calibration
 - 2025-11-16 14:54: refactor(dashboard): real-time state transition visualization
 - 2025-11-16 15:10: feat(viterbi): decode most probable latent crop health state
+- 2025-11-16 22:06: test(hmm): verify emission probability distribution bounds
