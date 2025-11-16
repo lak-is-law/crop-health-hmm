@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2025-10-09 11:07: perf(telemetry): stream sensor measurements to SQLite buffer
-- 2025-10-09 12:36: docs(math): document Baum-Welch parameter estimation routine
-- 2025-10-09 20:11: feat(model): transition probability matrix calibration
-- 2025-10-09 22:26: feat(model): transition probability matrix calibration
-- 2025-10-10 17:04: docs(math): document Baum-Welch parameter estimation routine
-- 2025-10-10 19:14: refactor(dashboard): real-time state transition visualization
-- 2025-10-12 10:07: fix(pipeline): handle missing soil moisture sensor telemetry
-- 2025-10-12 11:10: refactor(dashboard): real-time state transition visualization
-- 2025-10-12 12:26: feat(viterbi): decode most probable latent crop health state
 - 2025-10-12 13:22: test(hmm): verify emission probability distribution bounds
 - 2025-10-12 14:26: feat(export): daily crop vigor health report generator
 - 2025-10-12 17:21: feat(api): endpoint returning 7-day predicted stress transition
@@ -58,3 +49,4 @@
 - 2025-11-12 19:39: perf(db): SQLite WAL mode and prepared statement pooling
 - 2025-11-12 21:40: feat(export): daily crop vigor health report generator
 - 2025-11-12 22:05: feat(export): daily crop vigor health report generator
+- 2025-11-16 11:06: feat(api): endpoint returning 7-day predicted stress transition
