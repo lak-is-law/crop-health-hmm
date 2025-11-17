@@ -52,3 +52,4 @@
 - 2025-11-17 16:22: refactor(dashboard): real-time state transition visualization
 - 2025-11-17 17:02: docs(math): document Baum-Welch parameter estimation routine
 - 2025-11-17 20:59: refactor(sensor): calibrate capacitance moisture probe scaling
+- 2025-11-17 21:13: feat(api): endpoint returning 7-day predicted stress transition
