@@ -57,3 +57,4 @@
 - 2025-11-17 10:36: feat(export): daily crop vigor health report generator
 - 2025-11-17 11:56: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2025-11-17 12:24: feat(viterbi): decode most probable latent crop health state
+- 2025-11-17 14:26: refactor(sensor): calibrate capacitance moisture probe scaling
