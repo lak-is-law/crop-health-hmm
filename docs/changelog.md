@@ -56,3 +56,4 @@
 - 2025-11-18 18:25: feat(api): endpoint returning 7-day predicted stress transition
 - 2025-11-18 19:42: feat(model): transition probability matrix calibration
 - 2025-11-18 20:10: refactor(sensor): calibrate capacitance moisture probe scaling
+- 2025-11-18 21:07: feat(export): daily crop vigor health report generator
