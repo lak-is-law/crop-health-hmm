@@ -55,3 +55,4 @@
 - 2025-11-17 21:13: feat(api): endpoint returning 7-day predicted stress transition
 - 2025-11-17 22:53: feat(api): endpoint returning 7-day predicted stress transition
 - 2025-11-18 10:40: perf(db): SQLite WAL mode and prepared statement pooling
+- 2025-11-18 11:41: feat(viterbi): decode most probable latent crop health state
