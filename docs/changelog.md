@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2025-10-14 21:12: docs(math): document Baum-Welch parameter estimation routine
-- 2025-10-14 22:44: docs(math): document Baum-Welch parameter estimation routine
-- 2025-10-31 11:31: docs(math): document Baum-Welch parameter estimation routine
-- 2025-10-31 15:25: perf(db): SQLite WAL mode and prepared statement pooling
-- 2025-10-31 20:58: feat(viterbi): decode most probable latent crop health state
-- 2025-10-31 22:07: refactor(sensor): calibrate capacitance moisture probe scaling
-- 2025-11-02 10:24: fix(pipeline): handle missing soil moisture sensor telemetry
-- 2025-11-02 12:50: perf(db): SQLite WAL mode and prepared statement pooling
-- 2025-11-02 14:15: perf(db): SQLite WAL mode and prepared statement pooling
 - 2025-11-02 15:21: refactor(dashboard): real-time state transition visualization
 - 2025-11-02 16:00: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-11-02 20:40: feat(api): endpoint returning 7-day predicted stress transition
@@ -58,3 +49,4 @@
 - 2025-11-18 11:41: feat(viterbi): decode most probable latent crop health state
 - 2025-11-18 12:04: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-11-18 13:23: refactor(dashboard): real-time state transition visualization
+- 2025-11-18 14:14: refactor(dashboard): real-time state transition visualization
