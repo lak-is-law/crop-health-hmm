@@ -50,3 +50,4 @@
 - 2025-11-18 12:04: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-11-18 13:23: refactor(dashboard): real-time state transition visualization
 - 2025-11-18 14:14: refactor(dashboard): real-time state transition visualization
+- 2025-11-18 15:01: test(hmm): verify emission probability distribution bounds
