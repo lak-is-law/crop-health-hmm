@@ -54,3 +54,4 @@
 - 2025-11-17 20:59: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2025-11-17 21:13: feat(api): endpoint returning 7-day predicted stress transition
 - 2025-11-17 22:53: feat(api): endpoint returning 7-day predicted stress transition
+- 2025-11-18 10:40: perf(db): SQLite WAL mode and prepared statement pooling
