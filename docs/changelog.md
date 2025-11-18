@@ -57,3 +57,4 @@
 - 2025-11-18 10:40: perf(db): SQLite WAL mode and prepared statement pooling
 - 2025-11-18 11:41: feat(viterbi): decode most probable latent crop health state
 - 2025-11-18 12:04: fix(pipeline): handle missing soil moisture sensor telemetry
+- 2025-11-18 13:23: refactor(dashboard): real-time state transition visualization
