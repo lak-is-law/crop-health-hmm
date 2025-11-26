@@ -54,3 +54,4 @@
 - 2025-11-26 14:16: test(hmm): verify emission probability distribution bounds
 - 2025-11-26 15:04: test(hmm): verify emission probability distribution bounds
 - 2025-11-26 16:59: fix(pipeline): handle missing soil moisture sensor telemetry
+- 2025-11-26 19:09: feat(api): endpoint returning 7-day predicted stress transition
