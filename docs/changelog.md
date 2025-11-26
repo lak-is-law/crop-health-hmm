@@ -53,3 +53,4 @@
 - 2025-11-26 12:11: feat(export): daily crop vigor health report generator
 - 2025-11-26 14:16: test(hmm): verify emission probability distribution bounds
 - 2025-11-26 15:04: test(hmm): verify emission probability distribution bounds
+- 2025-11-26 16:59: fix(pipeline): handle missing soil moisture sensor telemetry
