@@ -57,3 +57,4 @@
 - 2025-11-26 19:09: feat(api): endpoint returning 7-day predicted stress transition
 - 2025-11-26 20:04: feat(export): daily crop vigor health report generator
 - 2025-11-26 21:34: refactor(dashboard): real-time state transition visualization
+- 2025-11-28 10:36: fix(pipeline): handle missing soil moisture sensor telemetry
