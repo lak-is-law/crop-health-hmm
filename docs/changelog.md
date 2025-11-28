@@ -53,3 +53,4 @@
 - 2025-11-28 14:28: docs(math): document Baum-Welch parameter estimation routine
 - 2025-11-28 15:58: refactor(dashboard): real-time state transition visualization
 - 2025-11-28 19:49: feat(api): endpoint returning 7-day predicted stress transition
+- 2025-11-28 20:36: feat(viterbi): decode most probable latent crop health state
