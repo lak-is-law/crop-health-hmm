@@ -51,3 +51,4 @@
 - 2025-11-28 10:36: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-11-28 11:25: perf(db): SQLite WAL mode and prepared statement pooling
 - 2025-11-28 14:28: docs(math): document Baum-Welch parameter estimation routine
+- 2025-11-28 15:58: refactor(dashboard): real-time state transition visualization
