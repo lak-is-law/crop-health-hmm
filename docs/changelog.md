@@ -52,3 +52,4 @@
 - 2025-12-02 17:30: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-12-02 18:56: feat(viterbi): decode most probable latent crop health state
 - 2025-12-02 19:24: perf(db): SQLite WAL mode and prepared statement pooling
+- 2025-12-02 22:52: refactor(sensor): calibrate capacitance moisture probe scaling
