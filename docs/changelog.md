@@ -55,3 +55,4 @@
 - 2025-11-28 19:49: feat(api): endpoint returning 7-day predicted stress transition
 - 2025-11-28 20:36: feat(viterbi): decode most probable latent crop health state
 - 2025-11-28 22:16: docs(math): document Baum-Welch parameter estimation routine
+- 2025-12-02 10:49: feat(export): daily crop vigor health report generator
