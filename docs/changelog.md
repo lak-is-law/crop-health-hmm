@@ -50,3 +50,4 @@
 - 2025-12-02 14:29: feat(model): transition probability matrix calibration
 - 2025-12-02 15:10: refactor(dashboard): real-time state transition visualization
 - 2025-12-02 17:30: fix(pipeline): handle missing soil moisture sensor telemetry
+- 2025-12-02 18:56: feat(viterbi): decode most probable latent crop health state
