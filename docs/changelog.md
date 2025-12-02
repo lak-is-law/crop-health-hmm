@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2025-11-11 22:11: test(hmm): verify emission probability distribution bounds
-- 2025-11-12 10:17: perf(telemetry): stream sensor measurements to SQLite buffer
-- 2025-11-12 11:04: refactor(dashboard): real-time state transition visualization
-- 2025-11-12 12:53: test(hmm): verify emission probability distribution bounds
-- 2025-11-12 13:52: refactor(sensor): calibrate capacitance moisture probe scaling
-- 2025-11-12 14:39: feat(api): endpoint returning 7-day predicted stress transition
-- 2025-11-12 15:04: feat(model): transition probability matrix calibration
-- 2025-11-12 16:20: refactor(dashboard): real-time state transition visualization
-- 2025-11-12 17:24: feat(model): transition probability matrix calibration
 - 2025-11-12 18:31: feat(api): endpoint returning 7-day predicted stress transition
 - 2025-11-12 19:39: perf(db): SQLite WAL mode and prepared statement pooling
 - 2025-11-12 21:40: feat(export): daily crop vigor health report generator
@@ -58,3 +49,4 @@
 - 2025-12-02 10:49: feat(export): daily crop vigor health report generator
 - 2025-12-02 14:29: feat(model): transition probability matrix calibration
 - 2025-12-02 15:10: refactor(dashboard): real-time state transition visualization
+- 2025-12-02 17:30: fix(pipeline): handle missing soil moisture sensor telemetry
