@@ -55,3 +55,4 @@
 - 2025-12-02 22:52: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2025-12-07 10:28: feat(viterbi): decode most probable latent crop health state
 - 2025-12-07 11:44: feat(viterbi): decode most probable latent crop health state
+- 2025-12-07 12:39: refactor(sensor): calibrate capacitance moisture probe scaling
