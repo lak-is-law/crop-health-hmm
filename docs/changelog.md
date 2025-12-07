@@ -55,3 +55,4 @@
 - 2025-12-07 18:56: feat(viterbi): decode most probable latent crop health state
 - 2025-12-07 19:18: feat(model): transition probability matrix calibration
 - 2025-12-07 20:15: perf(telemetry): stream sensor measurements to SQLite buffer
+- 2025-12-07 21:39: docs(math): document Baum-Welch parameter estimation routine
