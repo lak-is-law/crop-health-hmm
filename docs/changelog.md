@@ -50,3 +50,4 @@
 - 2025-12-07 13:30: test(hmm): verify emission probability distribution bounds
 - 2025-12-07 14:29: test(hmm): verify emission probability distribution bounds
 - 2025-12-07 15:37: docs(math): document Baum-Welch parameter estimation routine
+- 2025-12-07 16:18: fix(pipeline): handle missing soil moisture sensor telemetry
