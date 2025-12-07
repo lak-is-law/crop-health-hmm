@@ -57,3 +57,4 @@
 - 2025-12-07 11:44: feat(viterbi): decode most probable latent crop health state
 - 2025-12-07 12:39: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2025-12-07 13:30: test(hmm): verify emission probability distribution bounds
+- 2025-12-07 14:29: test(hmm): verify emission probability distribution bounds
