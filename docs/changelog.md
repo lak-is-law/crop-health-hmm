@@ -52,3 +52,4 @@
 - 2025-12-07 15:37: docs(math): document Baum-Welch parameter estimation routine
 - 2025-12-07 16:18: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-12-07 17:34: feat(model): transition probability matrix calibration
+- 2025-12-07 18:56: feat(viterbi): decode most probable latent crop health state
