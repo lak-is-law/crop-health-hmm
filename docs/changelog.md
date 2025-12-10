@@ -57,3 +57,4 @@
 - 2025-12-07 20:15: perf(telemetry): stream sensor measurements to SQLite buffer
 - 2025-12-07 21:39: docs(math): document Baum-Welch parameter estimation routine
 - 2025-12-07 22:49: feat(api): endpoint returning 7-day predicted stress transition
+- 2025-12-10 12:11: feat(model): transition probability matrix calibration
