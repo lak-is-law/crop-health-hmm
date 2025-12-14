@@ -54,3 +54,4 @@
 - 2025-12-14 12:19: docs(math): document Baum-Welch parameter estimation routine
 - 2025-12-14 14:30: feat(export): daily crop vigor health report generator
 - 2025-12-14 15:48: feat(api): endpoint returning 7-day predicted stress transition
+- 2025-12-14 16:43: feat(api): endpoint returning 7-day predicted stress transition
