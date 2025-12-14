@@ -50,3 +50,4 @@
 - 2025-12-07 22:49: feat(api): endpoint returning 7-day predicted stress transition
 - 2025-12-10 12:11: feat(model): transition probability matrix calibration
 - 2025-12-10 17:47: refactor(sensor): calibrate capacitance moisture probe scaling
+- 2025-12-14 10:02: refactor(sensor): calibrate capacitance moisture probe scaling
