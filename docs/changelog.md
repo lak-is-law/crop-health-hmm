@@ -52,3 +52,4 @@
 - 2025-12-10 17:47: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2025-12-14 10:02: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2025-12-14 12:19: docs(math): document Baum-Welch parameter estimation routine
+- 2025-12-14 14:30: feat(export): daily crop vigor health report generator
