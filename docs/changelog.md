@@ -56,3 +56,4 @@
 - 2025-12-14 15:48: feat(api): endpoint returning 7-day predicted stress transition
 - 2025-12-14 16:43: feat(api): endpoint returning 7-day predicted stress transition
 - 2025-12-14 18:10: feat(api): endpoint returning 7-day predicted stress transition
+- 2025-12-14 19:37: test(hmm): verify emission probability distribution bounds
