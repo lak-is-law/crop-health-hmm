@@ -50,3 +50,4 @@
 - 2025-12-14 19:37: test(hmm): verify emission probability distribution bounds
 - 2025-12-14 20:09: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2025-12-14 22:56: docs(math): document Baum-Welch parameter estimation routine
+- 2025-12-22 10:25: perf(db): SQLite WAL mode and prepared statement pooling
