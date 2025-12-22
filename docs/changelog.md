@@ -56,3 +56,4 @@
 - 2025-12-22 17:05: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2025-12-22 19:46: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2025-12-22 21:12: test(hmm): verify emission probability distribution bounds
+- 2025-12-22 22:53: feat(viterbi): decode most probable latent crop health state
