@@ -51,3 +51,4 @@
 - 2025-12-14 20:09: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2025-12-14 22:56: docs(math): document Baum-Welch parameter estimation routine
 - 2025-12-22 10:25: perf(db): SQLite WAL mode and prepared statement pooling
+- 2025-12-22 12:26: feat(model): transition probability matrix calibration
