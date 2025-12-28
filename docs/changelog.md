@@ -54,3 +54,4 @@
 - 2025-12-28 13:19: feat(model): transition probability matrix calibration
 - 2025-12-28 14:05: refactor(dashboard): real-time state transition visualization
 - 2025-12-28 15:11: refactor(sensor): calibrate capacitance moisture probe scaling
+- 2025-12-28 17:29: feat(export): daily crop vigor health report generator
