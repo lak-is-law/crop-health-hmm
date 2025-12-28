@@ -56,3 +56,4 @@
 - 2025-12-28 15:11: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2025-12-28 17:29: feat(export): daily crop vigor health report generator
 - 2025-12-28 20:41: feat(api): endpoint returning 7-day predicted stress transition
+- 2025-12-28 22:23: test(hmm): verify emission probability distribution bounds
