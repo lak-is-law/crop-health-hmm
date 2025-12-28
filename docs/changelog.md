@@ -50,3 +50,4 @@
 - 2025-12-22 22:53: feat(viterbi): decode most probable latent crop health state
 - 2025-12-28 10:35: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2025-12-28 11:00: perf(db): SQLite WAL mode and prepared statement pooling
+- 2025-12-28 12:15: test(hmm): verify emission probability distribution bounds
