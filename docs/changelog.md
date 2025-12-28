@@ -53,3 +53,4 @@
 - 2025-12-28 12:15: test(hmm): verify emission probability distribution bounds
 - 2025-12-28 13:19: feat(model): transition probability matrix calibration
 - 2025-12-28 14:05: refactor(dashboard): real-time state transition visualization
+- 2025-12-28 15:11: refactor(sensor): calibrate capacitance moisture probe scaling
