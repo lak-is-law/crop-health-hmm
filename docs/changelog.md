@@ -52,3 +52,4 @@
 - 2025-12-29 14:08: refactor(dashboard): real-time state transition visualization
 - 2025-12-29 15:22: feat(api): endpoint returning 7-day predicted stress transition
 - 2025-12-29 17:28: perf(telemetry): stream sensor measurements to SQLite buffer
+- 2025-12-29 18:32: feat(model): transition probability matrix calibration
