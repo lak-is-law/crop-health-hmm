@@ -50,3 +50,4 @@
 - 2025-12-28 22:23: test(hmm): verify emission probability distribution bounds
 - 2025-12-29 12:18: docs(math): document Baum-Welch parameter estimation routine
 - 2025-12-29 14:08: refactor(dashboard): real-time state transition visualization
+- 2025-12-29 15:22: feat(api): endpoint returning 7-day predicted stress transition
