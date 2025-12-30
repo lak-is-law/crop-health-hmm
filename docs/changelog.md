@@ -52,3 +52,4 @@
 - 2025-12-30 16:44: feat(api): endpoint returning 7-day predicted stress transition
 - 2025-12-30 17:04: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2025-12-30 19:40: refactor(dashboard): real-time state transition visualization
+- 2025-12-30 20:19: perf(telemetry): stream sensor measurements to SQLite buffer
