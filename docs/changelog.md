@@ -51,3 +51,4 @@
 - 2026-01-07 16:53: perf(telemetry): stream sensor measurements to SQLite buffer
 - 2026-01-07 17:09: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2026-01-07 18:17: docs(math): document Baum-Welch parameter estimation routine
+- 2026-01-07 19:04: test(hmm): verify emission probability distribution bounds
