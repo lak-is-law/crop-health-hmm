@@ -57,3 +57,4 @@
 - 2026-01-07 11:26: test(hmm): verify emission probability distribution bounds
 - 2026-01-07 13:42: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2026-01-07 14:12: refactor(sensor): calibrate capacitance moisture probe scaling
+- 2026-01-07 16:53: perf(telemetry): stream sensor measurements to SQLite buffer
