@@ -55,3 +55,4 @@
 - 2025-12-30 20:19: perf(telemetry): stream sensor measurements to SQLite buffer
 - 2025-12-30 22:04: feat(export): daily crop vigor health report generator
 - 2026-01-07 11:26: test(hmm): verify emission probability distribution bounds
+- 2026-01-07 13:42: refactor(sensor): calibrate capacitance moisture probe scaling
