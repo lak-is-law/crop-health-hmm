@@ -53,3 +53,4 @@
 - 2026-01-07 18:17: docs(math): document Baum-Welch parameter estimation routine
 - 2026-01-07 19:04: test(hmm): verify emission probability distribution bounds
 - 2026-01-07 20:36: perf(db): SQLite WAL mode and prepared statement pooling
+- 2026-01-07 21:49: feat(export): daily crop vigor health report generator
