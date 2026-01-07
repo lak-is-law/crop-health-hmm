@@ -52,3 +52,4 @@
 - 2026-01-07 17:09: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2026-01-07 18:17: docs(math): document Baum-Welch parameter estimation routine
 - 2026-01-07 19:04: test(hmm): verify emission probability distribution bounds
+- 2026-01-07 20:36: perf(db): SQLite WAL mode and prepared statement pooling
