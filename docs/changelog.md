@@ -57,3 +57,4 @@
 - 2026-01-07 22:02: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2026-01-28 11:23: feat(api): endpoint returning 7-day predicted stress transition
 - 2026-01-28 20:02: feat(model): transition probability matrix calibration
+- 2026-01-28 21:57: feat(viterbi): decode most probable latent crop health state
