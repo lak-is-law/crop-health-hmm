@@ -52,3 +52,4 @@
 - 2026-02-03 11:03: feat(model): transition probability matrix calibration
 - 2026-02-03 12:30: test(hmm): verify emission probability distribution bounds
 - 2026-02-03 14:12: perf(db): SQLite WAL mode and prepared statement pooling
+- 2026-02-03 16:57: feat(model): transition probability matrix calibration
