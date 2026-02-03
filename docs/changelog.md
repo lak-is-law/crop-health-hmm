@@ -51,3 +51,4 @@
 - 2026-01-28 21:57: feat(viterbi): decode most probable latent crop health state
 - 2026-02-03 11:03: feat(model): transition probability matrix calibration
 - 2026-02-03 12:30: test(hmm): verify emission probability distribution bounds
+- 2026-02-03 14:12: perf(db): SQLite WAL mode and prepared statement pooling
