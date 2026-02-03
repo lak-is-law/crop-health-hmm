@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2025-12-07 20:15: perf(telemetry): stream sensor measurements to SQLite buffer
-- 2025-12-07 21:39: docs(math): document Baum-Welch parameter estimation routine
-- 2025-12-07 22:49: feat(api): endpoint returning 7-day predicted stress transition
-- 2025-12-10 12:11: feat(model): transition probability matrix calibration
-- 2025-12-10 17:47: refactor(sensor): calibrate capacitance moisture probe scaling
-- 2025-12-14 10:02: refactor(sensor): calibrate capacitance moisture probe scaling
-- 2025-12-14 12:19: docs(math): document Baum-Welch parameter estimation routine
-- 2025-12-14 14:30: feat(export): daily crop vigor health report generator
-- 2025-12-14 15:48: feat(api): endpoint returning 7-day predicted stress transition
 - 2025-12-14 16:43: feat(api): endpoint returning 7-day predicted stress transition
 - 2025-12-14 18:10: feat(api): endpoint returning 7-day predicted stress transition
 - 2025-12-14 19:37: test(hmm): verify emission probability distribution bounds
@@ -58,3 +49,4 @@
 - 2026-01-28 11:23: feat(api): endpoint returning 7-day predicted stress transition
 - 2026-01-28 20:02: feat(model): transition probability matrix calibration
 - 2026-01-28 21:57: feat(viterbi): decode most probable latent crop health state
+- 2026-02-03 11:03: feat(model): transition probability matrix calibration
