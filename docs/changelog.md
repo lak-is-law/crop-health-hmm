@@ -56,3 +56,4 @@
 - 2026-02-03 17:30: refactor(dashboard): real-time state transition visualization
 - 2026-02-03 20:00: feat(viterbi): decode most probable latent crop health state
 - 2026-02-21 12:55: feat(model): transition probability matrix calibration
+- 2026-02-21 17:09: perf(db): SQLite WAL mode and prepared statement pooling
