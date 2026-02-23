@@ -50,3 +50,4 @@
 - 2026-02-21 17:09: perf(db): SQLite WAL mode and prepared statement pooling
 - 2026-02-21 22:15: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2026-02-23 12:42: refactor(sensor): calibrate capacitance moisture probe scaling
+- 2026-02-23 18:23: feat(api): endpoint returning 7-day predicted stress transition
