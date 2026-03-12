@@ -54,3 +54,4 @@
 - 2026-03-12 14:52: feat(viterbi): decode most probable latent crop health state
 - 2026-03-12 15:16: test(hmm): verify emission probability distribution bounds
 - 2026-03-12 17:40: feat(export): daily crop vigor health report generator
+- 2026-03-12 20:22: perf(db): SQLite WAL mode and prepared statement pooling
