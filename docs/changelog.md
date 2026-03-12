@@ -53,3 +53,4 @@
 - 2026-02-23 18:23: feat(api): endpoint returning 7-day predicted stress transition
 - 2026-03-12 14:52: feat(viterbi): decode most probable latent crop health state
 - 2026-03-12 15:16: test(hmm): verify emission probability distribution bounds
+- 2026-03-12 17:40: feat(export): daily crop vigor health report generator
