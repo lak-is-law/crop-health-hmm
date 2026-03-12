@@ -51,3 +51,4 @@
 - 2026-02-21 22:15: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2026-02-23 12:42: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2026-02-23 18:23: feat(api): endpoint returning 7-day predicted stress transition
+- 2026-03-12 14:52: feat(viterbi): decode most probable latent crop health state
