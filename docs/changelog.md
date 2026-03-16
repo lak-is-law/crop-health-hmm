@@ -56,3 +56,4 @@
 - 2026-03-12 17:40: feat(export): daily crop vigor health report generator
 - 2026-03-12 20:22: perf(db): SQLite WAL mode and prepared statement pooling
 - 2026-03-12 22:06: feat(api): endpoint returning 7-day predicted stress transition
+- 2026-03-16 11:49: test(hmm): verify emission probability distribution bounds
