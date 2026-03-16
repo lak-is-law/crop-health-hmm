@@ -50,3 +50,4 @@
 - 2026-03-16 11:49: test(hmm): verify emission probability distribution bounds
 - 2026-03-16 13:40: feat(api): endpoint returning 7-day predicted stress transition
 - 2026-03-16 16:24: fix(pipeline): handle missing soil moisture sensor telemetry
+- 2026-03-16 19:29: perf(telemetry): stream sensor measurements to SQLite buffer
