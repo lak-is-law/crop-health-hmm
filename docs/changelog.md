@@ -53,3 +53,4 @@
 - 2026-03-16 19:29: perf(telemetry): stream sensor measurements to SQLite buffer
 - 2026-03-16 20:22: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2026-03-16 21:23: perf(db): SQLite WAL mode and prepared statement pooling
+- 2026-03-22 11:30: feat(export): daily crop vigor health report generator
