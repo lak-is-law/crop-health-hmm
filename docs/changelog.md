@@ -52,3 +52,4 @@
 - 2026-03-27 15:25: feat(export): daily crop vigor health report generator
 - 2026-03-27 16:54: feat(export): daily crop vigor health report generator
 - 2026-03-27 17:46: feat(export): daily crop vigor health report generator
+- 2026-03-27 18:32: perf(telemetry): stream sensor measurements to SQLite buffer
