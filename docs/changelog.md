@@ -54,3 +54,4 @@
 - 2026-03-27 17:46: feat(export): daily crop vigor health report generator
 - 2026-03-27 18:32: perf(telemetry): stream sensor measurements to SQLite buffer
 - 2026-04-01 10:35: refactor(sensor): calibrate capacitance moisture probe scaling
+- 2026-04-01 11:54: docs(math): document Baum-Welch parameter estimation routine
