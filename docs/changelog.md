@@ -52,3 +52,4 @@
 - 2026-04-01 17:14: perf(db): SQLite WAL mode and prepared statement pooling
 - 2026-04-01 18:59: feat(viterbi): decode most probable latent crop health state
 - 2026-04-01 19:03: perf(db): SQLite WAL mode and prepared statement pooling
+- 2026-04-01 21:27: docs(math): document Baum-Welch parameter estimation routine
