@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2026-01-07 11:26: test(hmm): verify emission probability distribution bounds
-- 2026-01-07 13:42: refactor(sensor): calibrate capacitance moisture probe scaling
-- 2026-01-07 14:12: refactor(sensor): calibrate capacitance moisture probe scaling
-- 2026-01-07 16:53: perf(telemetry): stream sensor measurements to SQLite buffer
-- 2026-01-07 17:09: fix(pipeline): handle missing soil moisture sensor telemetry
-- 2026-01-07 18:17: docs(math): document Baum-Welch parameter estimation routine
-- 2026-01-07 19:04: test(hmm): verify emission probability distribution bounds
-- 2026-01-07 20:36: perf(db): SQLite WAL mode and prepared statement pooling
-- 2026-01-07 21:49: feat(export): daily crop vigor health report generator
 - 2026-01-07 22:02: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2026-01-28 11:23: feat(api): endpoint returning 7-day predicted stress transition
 - 2026-01-28 20:02: feat(model): transition probability matrix calibration
@@ -58,3 +49,4 @@
 - 2026-04-11 12:13: perf(telemetry): stream sensor measurements to SQLite buffer
 - 2026-04-11 16:50: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2026-04-11 18:18: test(hmm): verify emission probability distribution bounds
+- 2026-04-11 19:42: refactor(dashboard): real-time state transition visualization
