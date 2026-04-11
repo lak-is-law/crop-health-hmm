@@ -56,3 +56,4 @@
 - 2026-04-01 22:39: refactor(dashboard): real-time state transition visualization
 - 2026-04-11 10:27: feat(api): endpoint returning 7-day predicted stress transition
 - 2026-04-11 12:13: perf(telemetry): stream sensor measurements to SQLite buffer
+- 2026-04-11 16:50: fix(pipeline): handle missing soil moisture sensor telemetry
