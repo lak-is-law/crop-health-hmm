@@ -54,3 +54,4 @@
 - 2026-04-01 19:03: perf(db): SQLite WAL mode and prepared statement pooling
 - 2026-04-01 21:27: docs(math): document Baum-Welch parameter estimation routine
 - 2026-04-01 22:39: refactor(dashboard): real-time state transition visualization
+- 2026-04-11 10:27: feat(api): endpoint returning 7-day predicted stress transition
