@@ -50,3 +50,4 @@
 - 2026-04-11 16:50: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2026-04-11 18:18: test(hmm): verify emission probability distribution bounds
 - 2026-04-11 19:42: refactor(dashboard): real-time state transition visualization
+- 2026-04-30 10:46: feat(viterbi): decode most probable latent crop health state
