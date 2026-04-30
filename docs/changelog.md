@@ -52,3 +52,4 @@
 - 2026-04-11 19:42: refactor(dashboard): real-time state transition visualization
 - 2026-04-30 10:46: feat(viterbi): decode most probable latent crop health state
 - 2026-04-30 15:45: perf(db): SQLite WAL mode and prepared statement pooling
+- 2026-04-30 19:24: test(hmm): verify emission probability distribution bounds
