@@ -54,3 +54,4 @@
 - 2026-04-30 15:45: perf(db): SQLite WAL mode and prepared statement pooling
 - 2026-04-30 19:24: test(hmm): verify emission probability distribution bounds
 - 2026-05-19 11:51: refactor(sensor): calibrate capacitance moisture probe scaling
+- 2026-05-19 22:00: refactor(dashboard): real-time state transition visualization
