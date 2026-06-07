@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2026-01-07 22:02: refactor(sensor): calibrate capacitance moisture probe scaling
-- 2026-01-28 11:23: feat(api): endpoint returning 7-day predicted stress transition
-- 2026-01-28 20:02: feat(model): transition probability matrix calibration
-- 2026-01-28 21:57: feat(viterbi): decode most probable latent crop health state
-- 2026-02-03 11:03: feat(model): transition probability matrix calibration
-- 2026-02-03 12:30: test(hmm): verify emission probability distribution bounds
-- 2026-02-03 14:12: perf(db): SQLite WAL mode and prepared statement pooling
-- 2026-02-03 16:57: feat(model): transition probability matrix calibration
-- 2026-02-03 17:30: refactor(dashboard): real-time state transition visualization
 - 2026-02-03 20:00: feat(viterbi): decode most probable latent crop health state
 - 2026-02-21 12:55: feat(model): transition probability matrix calibration
 - 2026-02-21 17:09: perf(db): SQLite WAL mode and prepared statement pooling
@@ -58,3 +49,4 @@
 - 2026-06-05 19:18: perf(db): SQLite WAL mode and prepared statement pooling
 - 2026-06-07 11:23: feat(export): daily crop vigor health report generator
 - 2026-06-07 17:22: docs(math): document Baum-Welch parameter estimation routine
+- 2026-06-07 19:55: refactor(dashboard): real-time state transition visualization
