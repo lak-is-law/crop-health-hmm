@@ -50,3 +50,4 @@
 - 2026-06-07 11:23: feat(export): daily crop vigor health report generator
 - 2026-06-07 17:22: docs(math): document Baum-Welch parameter estimation routine
 - 2026-06-07 19:55: refactor(dashboard): real-time state transition visualization
+- 2026-06-07 22:32: docs(math): document Baum-Welch parameter estimation routine
