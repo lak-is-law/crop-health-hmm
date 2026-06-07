@@ -56,3 +56,4 @@
 - 2026-05-19 11:51: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2026-05-19 22:00: refactor(dashboard): real-time state transition visualization
 - 2026-06-05 19:18: perf(db): SQLite WAL mode and prepared statement pooling
+- 2026-06-07 11:23: feat(export): daily crop vigor health report generator
