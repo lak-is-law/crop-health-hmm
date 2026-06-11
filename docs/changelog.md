@@ -52,3 +52,4 @@
 - 2026-06-07 19:55: refactor(dashboard): real-time state transition visualization
 - 2026-06-07 22:32: docs(math): document Baum-Welch parameter estimation routine
 - 2026-06-11 10:08: test(hmm): verify emission probability distribution bounds
+- 2026-06-11 16:42: feat(viterbi): decode most probable latent crop health state
