@@ -53,3 +53,4 @@
 - 2026-06-07 22:32: docs(math): document Baum-Welch parameter estimation routine
 - 2026-06-11 10:08: test(hmm): verify emission probability distribution bounds
 - 2026-06-11 16:42: feat(viterbi): decode most probable latent crop health state
+- 2026-06-11 18:48: feat(api): endpoint returning 7-day predicted stress transition
