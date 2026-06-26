@@ -55,3 +55,4 @@
 - 2026-06-11 16:42: feat(viterbi): decode most probable latent crop health state
 - 2026-06-11 18:48: feat(api): endpoint returning 7-day predicted stress transition
 - 2026-06-26 14:03: fix(pipeline): handle missing soil moisture sensor telemetry
+- 2026-06-26 18:38: perf(db): SQLite WAL mode and prepared statement pooling
