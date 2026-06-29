@@ -50,3 +50,4 @@
 - 2026-06-29 11:07: refactor(dashboard): real-time state transition visualization
 - 2026-06-29 13:01: feat(api): endpoint returning 7-day predicted stress transition
 - 2026-06-29 17:34: feat(export): daily crop vigor health report generator
+- 2026-06-29 18:47: feat(api): endpoint returning 7-day predicted stress transition
