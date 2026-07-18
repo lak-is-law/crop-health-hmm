@@ -55,3 +55,4 @@
 - 2026-06-29 22:19: feat(viterbi): decode most probable latent crop health state
 - 2026-07-18 10:47: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2026-07-18 11:13: docs(math): document Baum-Welch parameter estimation routine
+- 2026-07-18 12:59: feat(model): transition probability matrix calibration
