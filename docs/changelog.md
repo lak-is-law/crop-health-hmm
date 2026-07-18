@@ -1,14 +1,5 @@
 # Engineering Changelog
 
-- 2026-03-12 20:22: perf(db): SQLite WAL mode and prepared statement pooling
-- 2026-03-12 22:06: feat(api): endpoint returning 7-day predicted stress transition
-- 2026-03-16 11:49: test(hmm): verify emission probability distribution bounds
-- 2026-03-16 13:40: feat(api): endpoint returning 7-day predicted stress transition
-- 2026-03-16 16:24: fix(pipeline): handle missing soil moisture sensor telemetry
-- 2026-03-16 19:29: perf(telemetry): stream sensor measurements to SQLite buffer
-- 2026-03-16 20:22: refactor(sensor): calibrate capacitance moisture probe scaling
-- 2026-03-16 21:23: perf(db): SQLite WAL mode and prepared statement pooling
-- 2026-03-22 11:30: feat(export): daily crop vigor health report generator
 - 2026-03-22 12:02: feat(export): daily crop vigor health report generator
 - 2026-03-27 12:20: refactor(dashboard): real-time state transition visualization
 - 2026-03-27 13:13: feat(export): daily crop vigor health report generator
@@ -58,3 +49,4 @@
 - 2026-07-18 12:59: feat(model): transition probability matrix calibration
 - 2026-07-18 13:18: refactor(dashboard): real-time state transition visualization
 - 2026-07-18 17:15: perf(db): SQLite WAL mode and prepared statement pooling
+- 2026-07-18 18:38: refactor(sensor): calibrate capacitance moisture probe scaling
