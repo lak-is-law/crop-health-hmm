@@ -53,3 +53,4 @@
 - 2026-06-29 18:47: feat(api): endpoint returning 7-day predicted stress transition
 - 2026-06-29 20:05: perf(db): SQLite WAL mode and prepared statement pooling
 - 2026-06-29 22:19: feat(viterbi): decode most probable latent crop health state
+- 2026-07-18 10:47: refactor(sensor): calibrate capacitance moisture probe scaling
