@@ -56,3 +56,4 @@
 - 2026-07-18 10:47: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2026-07-18 11:13: docs(math): document Baum-Welch parameter estimation routine
 - 2026-07-18 12:59: feat(model): transition probability matrix calibration
+- 2026-07-18 13:18: refactor(dashboard): real-time state transition visualization
