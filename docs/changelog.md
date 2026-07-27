@@ -51,3 +51,4 @@
 - 2026-07-18 17:15: perf(db): SQLite WAL mode and prepared statement pooling
 - 2026-07-18 18:38: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2026-07-27 17:48: refactor(sensor): calibrate capacitance moisture probe scaling
+- 2026-07-27 20:08: feat(model): transition probability matrix calibration
