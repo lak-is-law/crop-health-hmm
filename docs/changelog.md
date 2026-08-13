@@ -52,3 +52,4 @@
 - 2026-08-10 17:22: refactor(dashboard): real-time state transition visualization
 - 2026-08-10 21:19: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2026-08-13 10:15: docs(math): document Baum-Welch parameter estimation routine
+- 2026-08-13 11:08: feat(viterbi): decode most probable latent crop health state
