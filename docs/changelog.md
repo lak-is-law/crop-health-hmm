@@ -51,3 +51,4 @@
 - 2026-08-10 15:58: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2026-08-10 17:22: refactor(dashboard): real-time state transition visualization
 - 2026-08-10 21:19: refactor(sensor): calibrate capacitance moisture probe scaling
+- 2026-08-13 10:15: docs(math): document Baum-Welch parameter estimation routine
