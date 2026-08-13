@@ -53,3 +53,4 @@
 - 2026-08-10 21:19: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2026-08-13 10:15: docs(math): document Baum-Welch parameter estimation routine
 - 2026-08-13 11:08: feat(viterbi): decode most probable latent crop health state
+- 2026-08-13 13:41: feat(api): endpoint returning 7-day predicted stress transition
