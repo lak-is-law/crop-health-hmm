@@ -57,3 +57,4 @@
 - 2026-08-13 15:00: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2026-08-13 16:45: feat(api): endpoint returning 7-day predicted stress transition
 - 2026-08-13 17:48: perf(telemetry): stream sensor measurements to SQLite buffer
+- 2026-08-13 18:41: refactor(sensor): calibrate capacitance moisture probe scaling
