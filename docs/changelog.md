@@ -50,3 +50,4 @@
 - 2026-08-13 17:48: perf(telemetry): stream sensor measurements to SQLite buffer
 - 2026-08-13 18:41: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2026-08-15 12:09: fix(pipeline): handle missing soil moisture sensor telemetry
+- 2026-08-15 15:12: feat(export): daily crop vigor health report generator
