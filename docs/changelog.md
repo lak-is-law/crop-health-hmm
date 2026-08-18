@@ -53,3 +53,4 @@
 - 2026-08-15 15:12: feat(export): daily crop vigor health report generator
 - 2026-08-15 17:25: refactor(dashboard): real-time state transition visualization
 - 2026-08-17 21:15: test(hmm): verify emission probability distribution bounds
+- 2026-08-18 10:49: refactor(sensor): calibrate capacitance moisture probe scaling
