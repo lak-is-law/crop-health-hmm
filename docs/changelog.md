@@ -52,3 +52,4 @@
 - 2026-08-20 10:32: perf(db): SQLite WAL mode and prepared statement pooling
 - 2026-08-20 13:20: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2026-08-20 16:46: refactor(sensor): calibrate capacitance moisture probe scaling
+- 2026-08-20 17:07: perf(telemetry): stream sensor measurements to SQLite buffer
