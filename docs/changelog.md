@@ -50,3 +50,4 @@
 - 2026-08-18 17:47: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2026-08-18 19:53: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2026-08-20 10:32: perf(db): SQLite WAL mode and prepared statement pooling
+- 2026-08-20 13:20: refactor(sensor): calibrate capacitance moisture probe scaling
