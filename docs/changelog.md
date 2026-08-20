@@ -55,3 +55,4 @@
 - 2026-08-20 17:07: perf(telemetry): stream sensor measurements to SQLite buffer
 - 2026-08-20 18:35: docs(math): document Baum-Welch parameter estimation routine
 - 2026-08-20 19:08: perf(telemetry): stream sensor measurements to SQLite buffer
+- 2026-08-20 22:14: docs(math): document Baum-Welch parameter estimation routine
