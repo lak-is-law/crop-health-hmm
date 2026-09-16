@@ -53,3 +53,4 @@
 - 2026-09-16 10:44: fix(pipeline): handle missing soil moisture sensor telemetry
 - 2026-09-16 13:36: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2026-09-16 16:32: perf(telemetry): stream sensor measurements to SQLite buffer
+- 2026-09-16 17:28: test(hmm): verify emission probability distribution bounds
