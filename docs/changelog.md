@@ -53,3 +53,4 @@
 - 2026-09-19 17:54: refactor(sensor): calibrate capacitance moisture probe scaling
 - 2026-09-19 20:32: perf(telemetry): stream sensor measurements to SQLite buffer
 - 2026-09-19 21:14: perf(telemetry): stream sensor measurements to SQLite buffer
+- 2026-09-19 22:26: feat(api): endpoint returning 7-day predicted stress transition
