@@ -56,3 +56,4 @@
 - 2026-09-16 17:28: test(hmm): verify emission probability distribution bounds
 - 2026-09-16 18:38: feat(viterbi): decode most probable latent crop health state
 - 2026-09-16 19:27: refactor(sensor): calibrate capacitance moisture probe scaling
+- 2026-09-19 13:16: perf(telemetry): stream sensor measurements to SQLite buffer
