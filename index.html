@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crop Health - Hidden Markov Model</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-layout">
+        <!-- Header -->
+        <header class="app-header">
+            <div class="header-content">
+                <div class="brand">
+                    <div class="brand-icon">
+                        <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/>
+                            <path d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10z" opacity="0.2"/>
+                        </svg>
+                    </div>
+                    <div>
+                        <h1>Crop Health Hidden Markov Model</h1>
+                        <p class="subtitle">Sequential Latent State Detection from Weekly Vegetation Index & Agro-Climatic Observations</p>
+                    </div>
+                </div>
+                <div class="header-badges">
+                    <span class="badge badge-pulse"><span class="pulse-dot"></span> Viterbi & Baum-Welch HMM</span>
+                    <span class="badge badge-info">SQLite & Kaggle DB</span>
+                </div>
+            </div>
+        </header>
+
+        <!-- KPI Cards -->
+        <section class="kpi-grid">
+            <div class="kpi-card">
+                <div class="kpi-icon healthy-bg">
+                    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2">
+                        <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+                        <path d="m9 12 2 2 4-4"/>
+                    </svg>
+                </div>
+                <div class="kpi-data">
+                    <span class="kpi-label">Hidden State 0</span>
+                    <span class="kpi-val healthy-text">Healthy</span>
+                    <span class="kpi-sub">High NDVI & Adequate Moisture</span>
+                </div>
+            </div>
+
+            <div class="kpi-card">
+                <div class="kpi-icon stressed-bg">
+                    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#ca8a04" stroke-width="2">
+                        <circle cx="12" cy="12" r="5"/>
+                        <path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/>
+                    </svg>
+                </div>
+                <div class="kpi-data">
+                    <span class="kpi-label">Hidden State 1</span>
+                    <span class="kpi-val stressed-text">Stressed</span>
+                    <span class="kpi-sub">Thermal & Moisture Deficit</span>
+                </div>
+            </div>
+
+            <div class="kpi-card">
+                <div class="kpi-icon disease-bg">
+                    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#dc2626" stroke-width="2">
+                        <path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/>
+                        <line x1="12" y1="9" x2="12" y2="13"/>
+                        <line x1="12" y1="17" x2="12.01" y2="17"/>
+                    </svg>
+                </div>
+                <div class="kpi-data">
+                    <span class="kpi-label">Hidden State 2</span>
+                    <span class="kpi-val disease-text">Disease-Suspected</span>
+                    <span class="kpi-sub">High Humidity & Canopy Necrosis</span>
+                </div>
+            </div>
+
+            <div class="kpi-card">
+                <div class="kpi-icon info-bg">
+                    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2">
+                        <path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1-2.5-2.5Z"/>
+                        <path d="M6 6h10M6 10h10M6 14h6"/>
+                    </svg>
+                </div>
+                <div class="kpi-data">
+                    <span class="kpi-label">Database Status</span>
+                    <span class="kpi-val" id="totalRecordsLabel">128 Observations</span>
+                    <span class="kpi-sub">10 Multi-Week Field Plots</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- Main Workspace Grid -->
+        <main class="main-content-grid">
+            <!-- Left Panel: Preset & Sequence Controls -->
+            <section class="card panel-controls">
+                <div class="card-header">
+                    <h2>1. Sequence Configuration</h2>
+                    <span class="tag">Field & Presets</span>
+                </div>
+
+                <div class="form-group">
+                    <label for="fieldSelect">Choose Historical Field (from Database)</label>
+                    <select id="fieldSelect" class="form-select">
+                        <option value="FIELD-01">FIELD-01: Wheat (Northern Valley) - Emergence to Heat Stress</option>
+                        <option value="FIELD-02">FIELD-02: Corn (Central Belt) - Optimal Healthy Cycle</option>
+                        <option value="FIELD-03">FIELD-03: Soybean (Eastern Basin) - Prolonged Drought Stress</option>
+                        <option value="FIELD-04" selected>FIELD-04: Tomato (Delta Farmlands) - Fungal Blight Progression</option>
+                        <option value="FIELD-05">FIELD-05: Rice (Southern Terraces) - High-Vigor Paddy</option>
+                        <option value="FIELD-06">FIELD-06: Cotton (Western Plains) - Heat to Bacterial Blight</option>
+                        <option value="FIELD-07">FIELD-07: Wheat (Highland Plateau) - Cold Deficit to Full Recovery</option>
+                        <option value="FIELD-08">FIELD-08: Soybean (Riverside Basin) - High Humidity Rust Outbreak</option>
+                        <option value="FIELD-09">FIELD-09: Corn (Sunny Ridge) - High Yield Biomass</option>
+                        <option value="FIELD-10">FIELD-10: Tomato (Green Valley) - Complex 3-State Transition</option>
+                    </select>
+                </div>
+
+                <div class="quick-scenarios">
+                    <label class="section-sublabel">Or Inject Diagnostic Scenario:</label>
+                    <div class="scenario-buttons">
+                        <button class="btn btn-chip" onclick="loadScenario('healthy')">🌿 Optimal Healthy</button>
+                        <button class="btn btn-chip" onclick="loadScenario('drought')">☀️ Drought Stress</button>
+                        <button class="btn btn-chip" onclick="loadScenario('fungal')">🌧️ Fungal Blight</button>
+                        <button class="btn btn-chip" onclick="loadScenario('recovery')">🔄 Stress Recovery</button>
+                    </div>
+                </div>
+
+                <div class="card-header mt-20">
+                    <h2>2. Weekly Observation Editor</h2>
+                    <button class="btn btn-sm btn-outline" onclick="addWeekRow()">+ Add Week</button>
+                </div>
+                <p class="hint-text">Edit weekly sensor observations below to witness the HMM recalculate hidden states in real time.</p>
+
+                <div class="table-container">
+                    <table class="obs-table" id="obsTable">
+                        <thead>
+                            <tr>
+                                <th>Wk</th>
+                                <th>NDVI (0-1)</th>
+                                <th>Temp (°C)</th>
+                                <th>Hum (%)</th>
+                                <th>Moist (%)</th>
+                                <th>Del</th>
+                            </tr>
+                        </thead>
+                        <tbody id="obsTableBody">
+                            <!-- Populated dynamically via script.js -->
+                        </tbody>
+                    </table>
+                </div>
+
+                <div class="panel-actions">
+                    <button class="btn btn-primary btn-block" onclick="runInference()">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <polygon points="5 3 19 12 5 21 5 3"/>
+                        </svg>
+                        Execute Viterbi Hidden State Decoding
+                    </button>
+                </div>
+            </section>
+
+            <!-- Right Panel: HMM Decoding & Timeline Visualization -->
+            <section class="card panel-results">
+                <div class="card-header">
+                    <h2>3. Decoded Hidden State Trajectory</h2>
+                    <span class="tag tag-success" id="stateConcordanceBadge">Concordance: 100%</span>
+                </div>
+
+                <!-- Decoded Sequence Badges Flow -->
+                <div class="sequence-flow-wrapper">
+                    <div class="sequence-flow" id="sequenceFlow">
+                        <!-- Rendered by script.js -->
+                    </div>
+                </div>
+
+                <!-- Summary Diagnosis Box -->
+                <div class="diagnosis-box" id="diagnosisBox">
+                    <div class="diagnosis-header">
+                        <span class="diagnosis-title" id="diagTitle">Field Status: Fungal Infection Detected</span>
+                        <span class="risk-pill risk-high" id="diagPill">High Risk</span>
+                    </div>
+                    <p class="diagnosis-text" id="diagText">
+                        Latent sequence analysis reveals a transition from Healthy vegetative growth to State 2 (Disease-Suspected) beginning at Week 5 due to sustained relative humidity (>88%) and sudden vegetative canopy index depression.
+                    </p>
+                </div>
+
+                <!-- Posterior Probabilities Chart -->
+                <div class="chart-section">
+                    <div class="section-title-row">
+                        <h3>Forward-Backward State Posterior Distributions P(S_t | O)</h3>
+                        <div class="legend-row">
+                            <span class="legend-item"><span class="dot healthy-dot"></span> Healthy</span>
+                            <span class="legend-item"><span class="dot stressed-dot"></span> Stressed</span>
+                            <span class="legend-item"><span class="dot disease-dot"></span> Disease-Suspected</span>
+                        </div>
+                    </div>
+                    <div class="posterior-bars-container" id="posteriorBars">
+                        <!-- Rendered by script.js -->
+                    </div>
+                </div>
+
+                <!-- HMM Model Parameter Matrices -->
+                <div class="matrix-grid">
+                    <div class="matrix-card">
+                        <h4>Transition Probability Matrix A [P(S_t+1 | S_t)]</h4>
+                        <table class="matrix-table">
+                            <thead>
+                                <tr><th>From \ To</th><th>Healthy</th><th>Stressed</th><th>Disease</th></tr>
+                            </thead>
+                            <tbody>
+                                <tr><td><strong>Healthy</strong></td><td>0.78</td><td>0.17</td><td>0.05</td></tr>
+                                <tr><td><strong>Stressed</strong></td><td>0.22</td><td>0.65</td><td>0.13</td></tr>
+                                <tr><td><strong>Disease</strong></td><td>0.08</td><td>0.22</td><td>0.70</td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <div class="matrix-card">
+                        <h4>Gaussian Emission Centroids (Means μ)</h4>
+                        <table class="matrix-table">
+                            <thead>
+                                <tr><th>State</th><th>NDVI</th><th>Temp</th><th>Hum</th><th>Moist</th></tr>
+                            </thead>
+                            <tbody>
+                                <tr><td><span class="status-indicator healthy-dot"></span> Healthy</td><td>0.68</td><td>23.5°C</td><td>66%</td><td>48%</td></tr>
+                                <tr><td><span class="status-indicator stressed-dot"></span> Stressed</td><td>0.46</td><td>31.5°C</td><td>45%</td><td>22%</td></tr>
+                                <tr><td><span class="status-indicator disease-dot"></span> Disease</td><td>0.40</td><td>26.5°C</td><td>88%</td><td>60%</td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <!-- Footer -->
+        <footer class="app-footer">
+            <p>Crop Health Sequential State Model • Powered by Gaussian Hidden Markov Model • Standalone SQLite & Kaggle Repository</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

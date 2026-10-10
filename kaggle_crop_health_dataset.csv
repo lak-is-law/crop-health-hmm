@@ -1,0 +1,129 @@
+record_id,field_id,week,date,crop_type,ndvi,temperature_c,humidity_pct,rainfall_mm,soil_moisture_pct,observed_symptom,ground_truth_state
+REC-0001,FIELD-01,1,2023-11-05,Wheat,0.38,20.2,68.4,18.5,45.2,"Early emergence, good vigor",Healthy
+REC-0002,FIELD-01,2,2023-11-12,Wheat,0.44,21.0,65.1,14.2,42.8,Normal tillering,Healthy
+REC-0003,FIELD-01,3,2023-11-19,Wheat,0.53,19.8,70.0,22.0,48.0,Canopy expansion,Healthy
+REC-0004,FIELD-01,4,2023-11-26,Wheat,0.62,18.5,72.3,16.5,46.5,Vigorous vegetative growth,Healthy
+REC-0005,FIELD-01,5,2023-12-03,Wheat,0.69,18.0,69.8,12.0,44.0,Stem elongation,Healthy
+REC-0006,FIELD-01,6,2023-12-10,Wheat,0.74,19.2,66.5,8.0,41.2,"Booting stage, dark green canopy",Healthy
+REC-0007,FIELD-01,7,2023-12-17,Wheat,0.78,20.5,64.0,5.5,38.5,Heading stage peak biomass,Healthy
+REC-0008,FIELD-01,8,2023-12-24,Wheat,0.76,22.0,60.2,3.0,35.0,Anthesis / flowering,Healthy
+REC-0009,FIELD-01,9,2023-12-31,Wheat,0.71,25.4,52.1,0.0,30.2,Early grain filling,Healthy
+REC-0010,FIELD-01,10,2024-01-07,Wheat,0.65,28.6,44.3,0.0,25.1,"Mild thermal stress, leaf curling",Stressed
+REC-0011,FIELD-01,11,2024-01-14,Wheat,0.58,30.2,41.0,0.0,21.4,"Canopy yellowing, moisture deficit",Stressed
+REC-0012,FIELD-01,12,2024-01-21,Wheat,0.52,32.1,38.5,0.0,18.2,"Elevated heat stress, accelerated senescence",Stressed
+REC-0013,FIELD-01,13,2024-01-28,Wheat,0.47,29.5,45.0,4.5,20.1,Late dough stage,Stressed
+REC-0014,FIELD-01,14,2024-02-04,Wheat,0.41,28.0,48.2,0.0,19.0,Maturity / drying,Stressed
+REC-0015,FIELD-01,15,2024-02-11,Wheat,0.34,27.5,46.0,0.0,17.5,Ripening harvest ready,Healthy
+REC-0016,FIELD-02,1,2023-05-10,Corn,0.32,24.1,62.0,32.0,42.0,Seedling emergence,Healthy
+REC-0017,FIELD-02,2,2023-05-17,Corn,0.41,25.0,64.5,28.0,44.5,"V4 stage, strong root establishment",Healthy
+REC-0018,FIELD-02,3,2023-05-24,Corn,0.52,26.2,68.0,35.5,48.2,Rapid whorl expansion,Healthy
+REC-0019,FIELD-02,4,2023-05-31,Corn,0.64,27.0,71.2,40.0,52.0,"V8 stage, deep green canopy",Healthy
+REC-0020,FIELD-02,5,2023-06-07,Corn,0.73,27.5,73.0,30.0,50.5,"V12 stage, excellent biomass",Healthy
+REC-0021,FIELD-02,6,2023-06-14,Corn,0.81,28.1,75.4,45.0,55.0,Tasseling peak greenness,Healthy
+REC-0022,FIELD-02,7,2023-06-21,Corn,0.84,28.4,74.0,38.0,53.2,"Silking stage, optimal pollination",Healthy
+REC-0023,FIELD-02,8,2023-06-28,Corn,0.82,29.0,72.1,25.0,49.0,"Blister stage, dense canopy",Healthy
+REC-0024,FIELD-02,9,2023-07-05,Corn,0.79,28.5,70.0,22.0,47.5,Milk stage,Healthy
+REC-0025,FIELD-02,10,2023-07-12,Corn,0.76,27.8,68.5,18.0,45.0,Dough stage grain development,Healthy
+REC-0026,FIELD-02,11,2023-07-19,Corn,0.71,27.2,65.0,15.0,42.0,"Dent stage, natural canopy aging",Healthy
+REC-0027,FIELD-02,12,2023-07-26,Corn,0.63,26.5,62.1,10.0,38.5,Black layer formation,Healthy
+REC-0028,FIELD-02,13,2023-08-02,Corn,0.54,25.8,59.0,5.0,35.0,Pre-harvest dry down,Healthy
+REC-0029,FIELD-03,1,2023-06-01,Soybean,0.35,26.0,58.0,18.0,38.0,Germination and unifoliate emergence,Healthy
+REC-0030,FIELD-03,2,2023-06-08,Soybean,0.44,27.2,55.4,12.0,35.5,V2 vegetative stage,Healthy
+REC-0031,FIELD-03,3,2023-06-15,Soybean,0.53,28.5,52.0,6.0,31.0,"V4 stage, moisture declining",Healthy
+REC-0032,FIELD-03,4,2023-06-22,Soybean,0.56,31.2,42.1,0.0,24.5,"Wilting during midday, drought onset",Stressed
+REC-0033,FIELD-03,5,2023-06-29,Soybean,0.51,33.5,36.0,0.0,19.0,"Severe moisture deficit, leaf rolling",Stressed
+REC-0034,FIELD-03,6,2023-07-06,Soybean,0.46,35.0,32.5,0.0,15.2,"Chlorosis on lower leaves, stunting",Stressed
+REC-0035,FIELD-03,7,2023-07-13,Soybean,0.42,35.8,30.1,0.0,13.0,Extreme heat & drought stress,Stressed
+REC-0036,FIELD-03,8,2023-07-20,Soybean,0.39,36.2,29.0,0.0,11.5,"Canopy shrinkage, flower abortion",Stressed
+REC-0037,FIELD-03,9,2023-07-27,Soybean,0.45,29.0,62.0,42.0,32.0,"Relief rainfall, partial leaf recovery",Stressed
+REC-0038,FIELD-03,10,2023-08-03,Soybean,0.54,27.5,66.4,30.0,38.5,"Vegetative rejuvenation, secondary flush",Healthy
+REC-0039,FIELD-03,11,2023-08-10,Soybean,0.6,26.8,64.0,22.0,37.0,Pod development recovery,Healthy
+REC-0040,FIELD-03,12,2023-08-17,Soybean,0.55,26.0,61.0,14.0,34.0,Late pod fill,Healthy
+REC-0041,FIELD-03,13,2023-08-24,Soybean,0.46,25.2,58.0,5.0,30.0,Maturity stage,Healthy
+REC-0042,FIELD-04,1,2023-08-15,Tomato,0.4,25.0,72.0,24.0,46.0,Transplanting established,Healthy
+REC-0043,FIELD-04,2,2023-08-22,Tomato,0.52,25.8,75.2,35.0,50.0,"Vegetative growth, clean foliage",Healthy
+REC-0044,FIELD-04,3,2023-08-29,Tomato,0.65,26.2,78.0,48.0,54.0,"Flowering, dense healthy foliage",Healthy
+REC-0045,FIELD-04,4,2023-09-05,Tomato,0.72,26.5,82.5,62.0,58.0,"Early fruit set, excessive wet canopy",Healthy
+REC-0046,FIELD-04,5,2023-09-12,Tomato,0.66,26.0,89.4,75.0,62.0,"Lesions on lower leaves, high humidity",Disease-Suspected
+REC-0047,FIELD-04,6,2023-09-19,Tomato,0.55,25.2,92.1,88.0,65.0,"Rapid blight spread, stem dark necrosis",Disease-Suspected
+REC-0048,FIELD-04,7,2023-09-26,Tomato,0.44,24.8,93.5,65.0,63.5,"Severe leaf drop, fruit lesions",Disease-Suspected
+REC-0049,FIELD-04,8,2023-10-03,Tomato,0.38,25.5,90.0,50.0,60.0,"Extensive defoliation, fungal sporulation",Disease-Suspected
+REC-0050,FIELD-04,9,2023-10-10,Tomato,0.42,27.0,76.0,15.0,48.0,"Fungicide treatment applied, lesions dried",Disease-Suspected
+REC-0051,FIELD-04,10,2023-10-17,Tomato,0.48,26.5,68.0,8.0,42.0,New terminal shoots emerging,Stressed
+REC-0052,FIELD-04,11,2023-10-24,Tomato,0.54,26.0,65.0,5.0,40.0,"Slow recovery, partial fruit salvage",Stressed
+REC-0053,FIELD-04,12,2023-10-31,Tomato,0.5,25.0,62.0,2.0,36.0,Late season harvest,Healthy
+REC-0054,FIELD-05,1,2023-07-01,Rice,0.3,29.5,82.0,60.0,85.0,"Seedling broadcasting, flooded plot",Healthy
+REC-0055,FIELD-05,2,2023-07-08,Rice,0.42,30.1,84.0,72.0,88.0,Active tillering,Healthy
+REC-0056,FIELD-05,3,2023-07-15,Rice,0.56,30.5,85.5,65.0,86.0,Maximum tillering,Healthy
+REC-0057,FIELD-05,4,2023-07-22,Rice,0.68,31.0,83.2,54.0,85.0,Panicle initiation,Healthy
+REC-0058,FIELD-05,5,2023-07-29,Rice,0.77,30.8,86.0,80.0,90.0,"Booting stage, robust green color",Healthy
+REC-0059,FIELD-05,6,2023-08-05,Rice,0.82,31.2,84.5,70.0,88.0,Heading / flowering,Healthy
+REC-0060,FIELD-05,7,2023-08-12,Rice,0.8,31.5,82.0,45.0,82.0,Milk stage,Healthy
+REC-0061,FIELD-05,8,2023-08-19,Rice,0.75,31.0,78.5,35.0,76.0,"Dough stage, golden hue transition",Healthy
+REC-0062,FIELD-05,9,2023-08-26,Rice,0.68,30.2,75.0,20.0,68.0,"Grain ripening, water draining",Healthy
+REC-0063,FIELD-05,10,2023-09-02,Rice,0.58,29.8,70.0,10.0,52.0,"Mature grains, field drying",Healthy
+REC-0064,FIELD-05,11,2023-09-09,Rice,0.48,29.0,66.0,2.0,38.0,Pre-harvest maturity,Healthy
+REC-0065,FIELD-06,1,2023-05-20,Cotton,0.33,28.0,55.0,15.0,38.0,Emergence and cotyledon stage,Healthy
+REC-0066,FIELD-06,2,2023-05-27,Cotton,0.42,29.5,52.0,10.0,35.0,First true leaves,Healthy
+REC-0067,FIELD-06,3,2023-06-03,Cotton,0.51,31.0,48.0,5.0,31.0,Square formation,Healthy
+REC-0068,FIELD-06,4,2023-06-10,Cotton,0.58,32.5,45.0,2.0,28.0,"Early flowering, heat rising",Healthy
+REC-0069,FIELD-06,5,2023-06-17,Cotton,0.54,36.2,38.0,0.0,22.0,"Midday wilting, flower drop",Stressed
+REC-0070,FIELD-06,6,2023-06-24,Cotton,0.48,38.0,34.0,0.0,17.5,"Thermal stress, stunted boll growth",Stressed
+REC-0071,FIELD-06,7,2023-07-01,Cotton,0.44,38.5,32.0,0.0,15.0,Severe moisture deficit,Stressed
+REC-0072,FIELD-06,8,2023-07-08,Cotton,0.46,31.0,88.0,95.0,60.0,Sudden unseasonal storm & flooding,Stressed
+REC-0073,FIELD-06,9,2023-07-15,Cotton,0.39,29.5,91.5,78.0,65.0,"Waterlogged roots, angular leaf spots",Disease-Suspected
+REC-0074,FIELD-06,10,2023-07-22,Cotton,0.32,28.8,93.0,62.0,62.0,"Severe bacterial blight, boll rot",Disease-Suspected
+REC-0075,FIELD-06,11,2023-07-29,Cotton,0.28,29.2,89.0,40.0,55.0,"Canopy collapse, boll drop",Disease-Suspected
+REC-0076,FIELD-06,12,2023-08-05,Cotton,0.33,28.5,75.0,12.0,42.0,"Dry weather returns, surviving bolls open",Stressed
+REC-0077,FIELD-06,13,2023-08-12,Cotton,0.36,27.8,65.0,4.0,36.0,Late season boll opening,Healthy
+REC-0078,FIELD-07,1,2023-11-12,Wheat,0.35,16.5,58.0,5.0,30.0,Emergence,Healthy
+REC-0079,FIELD-07,2,2023-11-19,Wheat,0.42,14.2,54.0,2.0,26.0,"Tillering, cold soil",Healthy
+REC-0080,FIELD-07,3,2023-11-26,Wheat,0.39,10.5,48.0,0.0,20.0,"Frost event, leaf tip burn",Stressed
+REC-0081,FIELD-07,4,2023-12-03,Wheat,0.37,9.8,44.0,0.0,18.0,"Growth cessation, cold & dry stress",Stressed
+REC-0082,FIELD-07,5,2023-12-10,Wheat,0.36,11.0,42.0,0.0,17.0,Stunted tillers,Stressed
+REC-0083,FIELD-07,6,2023-12-17,Wheat,0.45,16.0,62.0,25.0,36.0,Spring warmup & precipitation,Healthy
+REC-0084,FIELD-07,7,2023-12-24,Wheat,0.58,18.5,68.0,30.0,42.0,Strong vegetative resurgence,Healthy
+REC-0085,FIELD-07,8,2023-12-31,Wheat,0.69,19.8,66.0,22.0,45.0,Stem elongation,Healthy
+REC-0086,FIELD-07,9,2024-01-07,Wheat,0.77,21.0,64.0,16.0,44.0,Booting and heading,Healthy
+REC-0087,FIELD-07,10,2024-01-14,Wheat,0.75,22.5,61.0,10.0,40.0,Flowering and anthesis,Healthy
+REC-0088,FIELD-07,11,2024-01-21,Wheat,0.68,24.0,56.0,5.0,35.0,Grain filling,Healthy
+REC-0089,FIELD-07,12,2024-01-28,Wheat,0.58,25.5,50.0,0.0,28.0,Ripening,Healthy
+REC-0090,FIELD-07,13,2024-02-04,Wheat,0.44,26.2,45.0,0.0,22.0,Harvest readiness,Healthy
+REC-0091,FIELD-08,1,2023-06-15,Soybean,0.36,26.5,70.0,28.0,45.0,Vegetative emergence,Healthy
+REC-0092,FIELD-08,2,2023-06-22,Soybean,0.46,27.2,73.0,35.0,48.0,"V3 stage, vigorous nodulation",Healthy
+REC-0093,FIELD-08,3,2023-06-29,Soybean,0.58,28.0,76.5,42.0,52.0,"V6 stage, dense canopy",Healthy
+REC-0094,FIELD-08,4,2023-07-06,Soybean,0.68,28.5,79.0,50.0,55.0,R1 flowering start,Healthy
+REC-0095,FIELD-08,5,2023-07-13,Soybean,0.74,28.8,82.0,65.0,58.0,"R2 full bloom, high canopy humidity",Healthy
+REC-0096,FIELD-08,6,2023-07-20,Soybean,0.67,28.2,88.5,75.0,62.0,Rust pustules detected on lower leaves,Disease-Suspected
+REC-0097,FIELD-08,7,2023-07-27,Soybean,0.56,27.8,92.0,80.0,65.0,Pustules spreading to middle canopy,Disease-Suspected
+REC-0098,FIELD-08,8,2023-08-03,Soybean,0.45,27.4,94.0,85.0,66.0,Premature defoliation from soybean rust,Disease-Suspected
+REC-0099,FIELD-08,9,2023-08-10,Soybean,0.37,28.0,89.0,45.0,60.0,Severely reduced photosynthetic area,Disease-Suspected
+REC-0100,FIELD-08,10,2023-08-17,Soybean,0.34,28.5,82.0,20.0,52.0,Pod fill severely compromised,Disease-Suspected
+REC-0101,FIELD-08,11,2023-08-24,Soybean,0.31,27.9,74.0,10.0,44.0,Early pod maturation,Stressed
+REC-0102,FIELD-08,12,2023-08-31,Soybean,0.29,27.0,65.0,5.0,36.0,Premature harvest,Stressed
+REC-0103,FIELD-09,1,2023-05-18,Corn,0.34,23.5,65.0,30.0,44.0,Emergence,Healthy
+REC-0104,FIELD-09,2,2023-05-25,Corn,0.45,24.8,66.0,28.0,46.0,V3 stage,Healthy
+REC-0105,FIELD-09,3,2023-06-01,Corn,0.58,26.0,68.5,36.0,50.0,V6 stage,Healthy
+REC-0106,FIELD-09,4,2023-06-08,Corn,0.7,27.2,72.0,42.0,54.0,"V10 stage, deep green",Healthy
+REC-0107,FIELD-09,5,2023-06-15,Corn,0.8,28.0,74.0,45.0,56.0,V14 rapid growth,Healthy
+REC-0108,FIELD-09,6,2023-06-22,Corn,0.86,28.5,76.0,38.0,55.0,Tasseling / pollination peak,Healthy
+REC-0109,FIELD-09,7,2023-06-29,Corn,0.88,28.2,75.0,35.0,53.0,Silking optimal,Healthy
+REC-0110,FIELD-09,8,2023-07-06,Corn,0.84,28.0,72.0,28.0,50.0,Kernel blister,Healthy
+REC-0111,FIELD-09,9,2023-07-13,Corn,0.8,27.5,70.0,24.0,48.0,Milk stage,Healthy
+REC-0112,FIELD-09,10,2023-07-20,Corn,0.76,26.8,68.0,20.0,45.0,Dough stage,Healthy
+REC-0113,FIELD-09,11,2023-07-27,Corn,0.7,26.0,64.0,15.0,42.0,Dent stage,Healthy
+REC-0114,FIELD-09,12,2023-08-03,Corn,0.61,25.2,60.0,8.0,38.0,Maturity,Healthy
+REC-0115,FIELD-10,1,2023-08-01,Tomato,0.38,27.0,66.0,20.0,44.0,Field establishment,Healthy
+REC-0116,FIELD-10,2,2023-08-08,Tomato,0.49,28.2,64.0,18.0,42.0,Vegetative growth,Healthy
+REC-0117,FIELD-10,3,2023-08-15,Tomato,0.61,30.0,58.0,8.0,36.0,First flower trusses,Healthy
+REC-0118,FIELD-10,4,2023-08-22,Tomato,0.66,32.5,50.0,2.0,30.0,"Fruit set, temperature rising",Healthy
+REC-0119,FIELD-10,5,2023-08-29,Tomato,0.59,35.0,42.0,0.0,22.0,"Heat stress, blossom end rot symptoms",Stressed
+REC-0120,FIELD-10,6,2023-09-05,Tomato,0.52,36.8,38.0,0.0,18.0,Severe moisture deficit & heat,Stressed
+REC-0121,FIELD-10,7,2023-09-12,Tomato,0.48,37.2,36.0,0.0,16.0,"Flower abortion, leaf curling",Stressed
+REC-0122,FIELD-10,8,2023-09-19,Tomato,0.5,29.0,86.0,82.0,58.0,Heavy monsoonal rains break drought,Stressed
+REC-0123,FIELD-10,9,2023-09-26,Tomato,0.43,27.5,93.0,90.0,64.0,"Excess water, early blight fungus begins",Disease-Suspected
+REC-0124,FIELD-10,10,2023-10-03,Tomato,0.36,26.8,95.0,75.0,66.0,Concentric lesions spreading across canopy,Disease-Suspected
+REC-0125,FIELD-10,11,2023-10-10,Tomato,0.31,27.2,91.0,48.0,62.0,Severe leaf defoliation,Disease-Suspected
+REC-0126,FIELD-10,12,2023-10-17,Tomato,0.35,26.5,78.0,15.0,48.0,"Canopy thinned, fungicide intervention",Disease-Suspected
+REC-0127,FIELD-10,13,2023-10-24,Tomato,0.42,25.8,68.0,8.0,42.0,Secondary growth stabilizes,Stressed
+REC-0128,FIELD-10,14,2023-10-31,Tomato,0.46,25.0,64.0,4.0,38.0,Late season harvest,Healthy
