@@ -9,7 +9,14 @@ This standalone project detects **hidden crop-health states** (*Healthy*, *Stres
 
 ---
 
-## 🌟 Highlights & Key Features
+## 🌐 Live Interactive Demo
+
+Access the live web dashboard deployed on GitHub Pages:
+👉 **[https://lak-is-law.github.io/crop-health-hmm/](https://lak-is-law.github.io/crop-health-hmm/)**
+
+---
+
+## 🌟 Highlights ## 🌟 Highlights & Key Features Key Features
 
 - **Sequential Latent State Inference**: Unlike static point classifiers, HMM accounts for temporal state persistence and transition dynamics across the entire crop growing cycle.
 - **Pure-NumPy/SciPy Architecture**: Hand-crafted, numerically stable implementation of:
